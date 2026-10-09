@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "sourceFile": "source.stl",
+  "sourceSha256": "a49fd57c0b1f9a5359f29f6ea73148c8f45c50799f42a7f91286c27a95085278",
+  "byteLength": 4271284,
+  "triangleCount": 85424,
+  "triangles": 85424,
+  "sourceBytes": 4271284,
+  "vertexCount": 256272,
+  "uniqueVertexCount": 42714,
+  "coordinateUnits": "unspecified",
+  "importedPositionMismatches": 0,
+  "bounds": {
+    "min": [
+      5.933689594268799,
+      -7.727302551269531,
+      -8.286109924316406
+    ],
+    "max": [
+      13.415144920349121,
+      3.722850799560547,
+      3.1486854553222656
+    ]
+  },
+  "center": [
+    9.67441725730896,
+    -2.002225875854492,
+    -2.5687122344970703
+  ],
+  "displayBasis": {
+    "right": [
+      0.022718240123766924,
+      0.8350025992921173,
+      -0.549776809933892
+    ],
+    "up": [
+      -0.13959506173647704,
+      0.5471809685637136,
+      0.825291588700906
+    ],
+    "front": [
+      0.989948029092673,
+      0.05799695523977277,
+      0.1289932280332877
+    ]
+  },
+  "connectedComponents": 1,
+  "invalidNormalFaces": [
+    39869,
+    66120
+  ],
+  "collapsedFaces": [
+    39869,
+    66120
+  ],
+  "corrections": "Positions and source bytes unchanged. Two non-finite collapsed-face normals replaced in display buffers only. Crease-aware normals are optional display shading.",
+  "regions": [
+    {
+      "id": 0,
+      "name": "Outer plate",
+      "faces": 12004
+    },
+    {
+      "id": 1,
+      "name": "Raised rim",
+      "faces": 9382
+    },
+    {
+      "id": 2,
+      "name": "Lower band",
+      "faces": 14939
+    },
+    {
+      "id": 3,
+      "name": "Rivets",
+      "faces": 2325
+    },
+    {
+      "id": 4,
+      "name": "Skull",
+      "faces": 12222
+    },
+    {
+      "id": 5,
+      "name": "Inner cup",
+      "faces": 20487
+    },
+    {
+      "id": 6,
+      "name": "Rear surfaces",
+      "faces": 14065
+    }
+  ],
+  "boundary": {
+    "file": "boundary.json",
+    "diagnostic": "boundary-diagnostic.svg",
+    "method": "Source shared-edge midpoint anchors; symmetric quartic width profile and even-quartic lower seam. Source-bound authored approximation, not an exact analytic reconstruction.",
+    "rimAnchorCount": 514,
+    "bandAnchorCount": 484,
+    "rimProjectedDistanceError": {
+      "median": 0.00460858071657029,
+      "p99": 0.023744031479365123,
+      "maximum": 0.036800861886514956
+    },
+    "bandProjectedDistanceError": {
+      "median": 0.007925320574882821,
+      "p99": 0.03226067977251068,
+      "maximum": 0.03828732546528002
+    },
+    "review": "Projection plot records source anchors and fit. Inspect front, oblique and macro renders before claiming final sculpt accuracy."
+  },
+  "regionMap": {
+    "file": "regions.bin",
+    "encoding": "uint8 per source triangle",
+    "sourceSha256": "a49fd57c0b1f9a5359f29f6ea73148c8f45c50799f42a7f91286c27a95085278",
+    "method": "Authored source-face crease seeds, inset plateau orientation, surface-adjacency propagation. Front, three-quarter and rear diagnostics reviewed."
+  },
+  "smoothNormals": {
+    "file": "smooth-normals.bin",
+    "encoding": "little-endian float32 xyz per source corner",
+    "creaseDegrees": 45
+  },
+  "animation": {
+    "file": "strokes.json",
+    "baseTimeline": {
+      "coat1": [
+        0.8,
+        8.8
+      ],
+      "drying": [
+        8.8,
+        10.5
+      ],
+      "coat2": [
+        10.5,
+        19.2
+      ],
+      "notice": "Demonstration time is compressed. Let the first real coat dry fully before adding another."
+    },
+    "coordinateSpace": "original STL positions",
+    "duration": 20,
+    "widthMeaning": "brush footprint radius in source units",
+    "segmentCounts": {
+      "base": 108,
+      "recess": 31,
+      "edge": 31
+    }
+  },
+  "distribution": "Local test asset only; no redistribution licence established."
+}

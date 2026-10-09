@@ -1,0 +1,119 @@
+/* Techniques share the Workbench's quiet surfaces and clear teaching hierarchy. */
+.technique-library { padding:56px 0 32px; }
+.technique-library-heading { margin-bottom:48px; }
+.technique-library-heading > .eyebrow { color:var(--secondary); }
+.technique-library-heading h1 { font-size:clamp(44px,6.4vw,88px); line-height:1.02; letter-spacing:-.065em; font-weight:500; margin:22px 0 24px; }
+.technique-library-heading > p { font-size:17px; color:var(--secondary); margin:0; }
+.technique-library-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:40px 28px; }
+.technique-lesson-card { min-width:0; display:block; border-radius:12px; }
+.technique-lesson-art { overflow:hidden; aspect-ratio:1.65; background:var(--object-stage-color); border-radius:12px; }
+.technique-lesson-art > svg { display:block; width:100%; height:100%; }
+.technique-lesson-copy { padding:22px 0 0; }
+.technique-lesson-meta { display:flex; justify-content:space-between; gap:16px; font-size:12px; color:var(--secondary); }
+.technique-lesson-copy h2 { display:flex; align-items:center; justify-content:space-between; gap:20px; font-size:30px; font-weight:500; letter-spacing:-.04em; margin:12px 0 8px; }
+.technique-lesson-copy h2 svg { opacity:.6; transition:transform 160ms ease-out; flex-shrink:0; }
+.technique-lesson-copy p { margin:0; font-size:15px; line-height:1.6; color:var(--secondary); }
+.technique-lesson-card--foundation { grid-column:1 / -1; display:grid; grid-template-columns:1fr 1fr; background:var(--object-stage-color); align-items:center; }
+.technique-lesson-card--foundation .technique-lesson-art { aspect-ratio:1.5; order:2; }
+.technique-lesson-card--foundation .technique-lesson-copy { padding:40px; }
+.technique-lesson-card--foundation h2 { font-size:clamp(34px,4vw,52px); margin:24px 0 14px; }
+.technique-lesson-card--foundation h2 svg { display:none; }
+.technique-lesson-card--foundation .technique-lesson-meta { justify-content:flex-start; }
+.technique-lesson-cta { display:flex; gap:12px; align-items:center; font-size:14px; margin-top:30px; }
+.technique-library-ending { margin-top:56px; padding-top:28px; border-top:1px solid var(--line); display:flex; justify-content:space-between; align-items:center; gap:20px; }
+.technique-library-ending p { margin:0; color:var(--secondary); }
+.technique-library-ending a { display:flex; align-items:center; gap:16px; min-height:44px; }
+.technique-workbench { padding:0 0 32px; }
+.technique-topline { display:flex; justify-content:space-between; align-items:center; gap:24px; padding:20px 0 30px; }
+.technique-breadcrumb { display:flex; align-items:center; gap:12px; font-size:13px; color:var(--secondary); flex-wrap:wrap; }
+.technique-breadcrumb a { display:flex; align-items:center; gap:10px; color:var(--ink); min-height:44px; }
+.technique-chapter-trigger { display:flex; align-items:center; gap:12px; min-height:44px; background:none; border:0; font-size:13px; color:var(--ink); white-space:nowrap; cursor:pointer; }
+.technique-progress { display:flex; gap:4px; }
+.technique-progress i { width:16px; height:3px; border-radius:2px; background:#d3dae5; }
+.technique-progress i[data-past] { background:#a4afc1; }
+.technique-progress i[data-current] { background:var(--ink); }
+.technique-chapter-menu { z-index:45; width:min(390px,calc(100vw - 32px)); max-height:var(--radix-popover-content-available-height); overflow:auto; border:1px solid var(--line); border-radius:12px; background:var(--paper); padding:10px; box-shadow:0 16px 50px #20232816; }
+.technique-chapter-menu > p { font-size:12px; color:var(--secondary); margin:10px 12px; }
+.technique-chapter-menu nav { display:grid; gap:3px; }
+.technique-chapter-menu button { display:flex; align-items:baseline; gap:14px; border:0; border-radius:7px; padding:13px 12px; background:none; font:inherit; font-size:14px; text-align:left; line-height:1.5; cursor:pointer; }
+.technique-chapter-menu button span { color:var(--secondary); font-size:12px; font-variant-numeric:tabular-nums; }
+.technique-chapter-menu button[aria-current],.technique-chapter-menu button:hover { background:var(--object-stage-color); }
+.technique-chapter-menu button:focus-visible { outline:2px solid var(--action); outline-offset:-2px; }
+.technique-chapter-heading { margin-bottom:30px; max-width:920px; }
+.technique-chapter-heading h1 { font-size:clamp(30px,3.4vw,48px); font-weight:500; letter-spacing:-.045em; line-height:1.12; margin:0 0 16px; text-wrap:balance; }
+.technique-chapter-heading h1:focus { outline:none; }
+.technique-chapter-heading p { margin:0; max-width:80ch; font-size:16px; line-height:1.7; color:var(--secondary); }
+.technique-workbench-grid { display:grid; grid-template-columns:minmax(0,2.5fr) minmax(260px,1fr); column-gap:clamp(28px,4vw,64px); align-items:start; }
+.technique-demonstration { min-width:0; }
+.technique-workbench .guided-study.shape-study--embedded .guided-stage { height:clamp(350px,47svh,530px); }
+.technique-starting-state { display:flex; gap:12px; font-size:12px; line-height:1.6; color:var(--secondary); margin:15px 0 0; }
+.technique-starting-state > span { color:var(--ink); flex-shrink:0; }
+.technique-teaching { min-width:0; padding-top:3px; }
+.technique-observation .eyebrow { color:var(--secondary); }
+.technique-observation h2 { font-size:clamp(21px,1.8vw,27px); letter-spacing:-.035em; font-weight:500; line-height:1.3; margin:13px 0 28px; text-wrap:pretty; }
+.technique-practice { border-top:1px solid var(--line); padding-top:24px; margin-bottom:20px; }
+.technique-practice h3 { font-size:16px; font-weight:500; margin:0 0 12px; letter-spacing:-.02em; }
+.technique-practice p,.technique-note p { font-size:14px; line-height:1.75; color:var(--secondary); margin:0 0 16px; }
+.technique-note { border-top:1px solid var(--line); }
+.technique-note > summary { display:flex; justify-content:space-between; align-items:center; min-height:54px; gap:16px; cursor:pointer; font-size:13px; list-style:none; }
+.technique-note > summary::-webkit-details-marker { display:none; }
+.technique-note > summary::after { content:'+'; color:var(--secondary); }
+.technique-note[open] > summary::after { content:'−'; }
+.technique-reference a { display:flex; align-items:baseline; gap:9px; margin-bottom:14px; font-size:12px; line-height:1.6; color:var(--secondary); text-decoration:underline; text-underline-offset:3px; }
+.technique-reference a svg { flex-shrink:0; }
+.technique-workbench .workbench-progression { margin-top:24px; }
+.technique-workbench .lesson-navigation { margin:0; display:flex; align-items:center; justify-content:space-between; gap:20px; }
+.technique-workbench .lesson-navigation > :is(button,a) { display:inline-flex; align-items:center; gap:10px; font-size:14px; min-height:46px; }
+.technique-workbench .lesson-navigation > button:not(.button) { background:none; border:0; padding:0; cursor:pointer; color:var(--secondary); }
+.technique-card-grid.technique-card-grid--five { grid-template-columns:repeat(5,minmax(0,1fr)); }
+@media(hover:hover) { .technique-lesson-card:hover h2 svg { transform:translateX(4px); } }
+@media(max-width:1000px) {
+  .technique-workbench-grid { grid-template-columns:minmax(0,1.8fr) minmax(240px,1fr); gap:28px; }
+  .technique-card-grid.technique-card-grid--five { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  .technique-lesson-card--foundation .technique-lesson-copy { padding:28px; }
+}
+@media(max-width:800px) {
+  .technique-workbench-grid { display:block; }
+  .technique-teaching { display:grid; grid-template-columns:1fr 1fr; column-gap:28px; margin-top:30px; }
+  .technique-practice { border:0; padding:0; }
+  .technique-workbench .guided-study.shape-study--embedded .guided-stage { height:400px; }
+  .technique-topline { gap:16px; flex-wrap:wrap; padding-bottom:24px; }
+}
+@media(max-width:560px) {
+  .technique-library { padding-top:36px; }
+  .technique-library-heading { margin-bottom:32px; }
+  .technique-library-heading h1 { font-size:44px; }
+  .technique-library-heading > p { font-size:15px; line-height:1.65; }
+  .technique-library-grid { grid-template-columns:1fr; gap:30px; }
+  .technique-lesson-card--foundation { display:flex; flex-direction:column; align-items:stretch; }
+  .technique-lesson-card--foundation .technique-lesson-art { order:0; aspect-ratio:1.75; }
+  .technique-lesson-card--foundation .technique-lesson-copy { padding:0 24px 28px; }
+  .technique-lesson-card--foundation h2 { font-size:34px; margin-top:14px; }
+  .technique-lesson-cta { margin-top:20px; }
+  .technique-lesson-copy h2 { font-size:27px; }
+  .technique-library-ending { display:block; margin-top:36px; }
+  .technique-library-ending a { margin-top:10px; font-size:14px; }
+  .technique-topline { gap:2px; padding:12px 0 22px; }
+  .technique-breadcrumb { font-size:12px; }
+  .technique-chapter-trigger { font-size:12px; padding:0; }
+  .technique-progress { display:none; }
+  .technique-chapter-heading { margin-bottom:24px; }
+  .technique-chapter-heading h1 { font-size:30px; }
+  .technique-chapter-heading p { font-size:14px; line-height:1.65; }
+  .technique-workbench .guided-study.shape-study--embedded .guided-stage { height:310px; }
+  .technique-starting-state { display:block; }
+  .technique-starting-state > span { margin-right:8px; }
+  .technique-teaching { display:block; margin-top:28px; }
+  .technique-observation h2 { font-size:23px; margin-bottom:24px; }
+  .technique-practice { border-top:1px solid var(--line); padding-top:22px; }
+  .technique-card-grid.technique-card-grid--five { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .technique-workbench .lesson-navigation > :is(button,a) { font-size:13px; }
+}
+@media(prefers-reduced-motion:reduce) { .technique-lesson-copy h2 svg { transition:none; } }
+
+.technique-palette-context {font-size:12px;color:var(--secondary);line-height:1.6;margin:7px 0 0}
+
+@media(max-width:700px) {
+  .painting-workbench.technique-workbench {padding-bottom:calc(var(--workbench-dock-height,140px) + 24px)}
+  .technique-workbench .workbench-progression {margin:0}
+}

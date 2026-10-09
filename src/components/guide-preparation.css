@@ -1,0 +1,170 @@
+/* Preparation is one quiet handoff from the study to the painting desk. */
+.desk-readiness {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px 28px;
+  flex-wrap: wrap;
+}
+.desk-readiness .palette-intro {
+  margin: 0;
+  flex: 1 1 28ch;
+  color: var(--secondary);
+  font-size: 14px;
+  line-height: 1.6;
+}
+.desk-readiness-counts {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  color: var(--secondary);
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+}
+.desk-readiness-counts > :is(span, a) {
+  display: inline-flex;
+  gap: 6px;
+  align-items: center;
+  min-height: 44px;
+  white-space: nowrap;
+}
+.desk-readiness-counts strong { color: var(--ink); font-weight: 550; }
+.desk-readiness-counts > span > svg { display: none; }
+.desk-readiness.is-ready .desk-readiness-counts > span > svg { display: block; color: #316446; }
+.desk-readiness.is-ready .palette-intro { color: #316446; }
+.desk-readiness-counts > a { text-decoration: underline; text-underline-offset: 4px; text-decoration-color: var(--line); }
+.desk-readiness-counts > a:hover { color: var(--ink); text-decoration-color: currentColor; }
+.app-shell .view-guide .guide-paint-brand,
+.app-shell .view-guide .tools-heading > span,
+.app-shell .view-guide .study-preview-copy .quiet-note { font-size: 12px; }
+.view-guide :is(#materials, #tools) { scroll-margin-top: 28px; }
+.app-shell .view-guide .tools-list label {
+  border-bottom: 0;
+  padding: 12px 0;
+  gap: 12px;
+  min-height: 48px;
+  transition: color 150ms ease;
+}
+.view-guide .tools-list label > input { flex: 0 0 auto; width: 16px; height: 16px; accent-color: var(--ink); }
+.view-guide .tools-list label > span { min-width: 0; }
+.view-guide .tools-list label.is-ready { color: #316446; }
+.view-guide .tools-list label:has(input:focus-visible) { outline: 2px solid var(--action); outline-offset: 4px; border-radius: 3px; }
+.view-guide .tools-list input:focus-visible { outline: none; }
+@media (max-width: 700px) {
+  .desk-readiness { align-items: flex-start; gap: 4px; }
+  .desk-readiness .palette-intro { flex-basis: 100%; }
+  .desk-readiness-counts { gap: 24px; }
+  .app-shell .view-guide .study-preview-copy p { font-size: 12px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .app-shell .view-guide .tools-list label { transition: none; }
+}
+
+.app-shell .view-guide .tools-list { grid-template-columns: minmax(0, 1fr); }
+.app-shell .view-guide .tools-list label { align-items: flex-start; font-size: 15px; }
+.view-guide .tools-list label > input { margin-top: 4px; }
+
+/* A swatch carries readiness; the text keeps a consistent product hierarchy. */
+.app-shell .view-guide .paint-swatch { min-width: 0; }
+.app-shell .view-guide .guide-paint-meta { display: grid; gap: 3px; margin: 7px 0 13px; min-height: 39px; align-content: start; }
+.app-shell .view-guide .guide-paint-meta small { display: block; margin: 0; font-size: 12px; line-height: 1.5; color: var(--secondary); }
+.app-shell .view-guide .paint-swatch .paint-role { display: block; min-width: 0; margin-top: auto; padding-top: 11px; border-top: 1px solid var(--line); color: var(--ink); font-size: 12px; line-height: 1.5; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.app-shell .view-guide .tools-list > .tool-checklist-row:last-child,
+.app-shell .view-guide .stage-outline > ol > li:last-child { border-bottom: 0; }
+
+/* Outcomes read as a small set of skills, with room for longer guide copy. */
+.app-shell .view-guide .learning-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px 24px;
+  list-style: none;
+  padding: 0;
+  margin: 0 0 30px;
+}
+.app-shell .view-guide .learning-list li {
+  align-items: flex-start;
+  gap: 10px;
+  line-height: 1.55;
+}
+.app-shell .view-guide .learning-list svg {
+  flex: 0 0 16px;
+  margin-top: 3px;
+  color: var(--secondary);
+  stroke-width: 1.5;
+}
+
+/* Equipment is a compact desk checklist; chapters have room to explain the sequence. */
+.app-shell .view-guide .preparation-section {
+  grid-template-columns: minmax(0, .85fr) minmax(0, 1.15fr);
+  align-items: start;
+  gap: clamp(40px, 6vw, 88px);
+  padding: 44px 0 48px;
+}
+.app-shell .view-guide .preparation-section > div { min-width: 0; }
+.app-shell .view-guide .preparation-section h2 {
+  margin: 0;
+  line-height: 1.2;
+}
+.app-shell .view-guide .tools-heading {
+  min-height: 46px;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+.app-shell .view-guide .tools-heading > span { white-space: nowrap; }
+.app-shell .view-guide .tools-list { gap: 0; }
+.app-shell .view-guide .tools-list > .tool-checklist-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 0;
+}
+.app-shell .view-guide .tools-list label {
+  min-width: 0;
+  padding: 10px 0;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.app-shell .view-guide .tools-list .tool-about {
+  margin-left: 0;
+  white-space: nowrap;
+}
+.app-shell .view-guide .stage-outline > h2 {
+  display: flex;
+  align-items: center;
+  min-height: 46px;
+}
+.app-shell .view-guide .stage-outline ol { margin: 18px 0 0; }
+.app-shell .view-guide .stage-outline li > a {
+  min-height: 72px;
+  padding: 17px 0;
+  gap: 16px;
+}
+.app-shell .view-guide .stage-outline li > a > span { flex: 0 0 24px; }
+.app-shell .view-guide .stage-outline li > a > svg { flex-shrink: 0; }
+.app-shell .view-guide .stage-outline li p { margin-bottom: 0; line-height: 1.65; }
+@media (max-width: 960px) {
+  .app-shell .view-guide .preparation-section {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 40px;
+    padding: 32px 0 40px;
+  }
+  .app-shell .view-guide .stage-outline {
+    padding-top: 32px;
+    border-top: 1px solid var(--line);
+  }
+  .app-shell .view-guide .tools-heading,
+  .app-shell .view-guide .stage-outline > h2 { min-height: 40px; }
+}
+@media (min-width: 561px) and (max-width: 1279px) {
+  .app-shell .view-guide .learning-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 560px) {
+  .app-shell .view-guide .learning-list { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+  .app-shell .view-guide .tools-heading { margin-bottom: 12px; }
+  .app-shell .view-guide .tools-list > .tool-checklist-row { gap: 12px; }
+  .app-shell .view-guide .tools-list .tool-about { font-size: 11px; gap: 5px; }
+}
+.palette-primer-note { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 16px; margin: 24px 0 0; color: var(--secondary); font-size: 12px; line-height: 1.7; }
+.palette-primer-note a { color: var(--ink); white-space: nowrap; text-underline-offset: 3px; }

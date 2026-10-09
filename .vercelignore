@@ -1,0 +1,12 @@
+.env*
+!.env.example
+.git/
+node_modules/
+.next/
+artifacts/
+output/
+docs/
+PROJECT_CONTEXT.md
+AGENTS.md
+scripts/
+src/lib/pauldron-proof.test.ts

@@ -1,0 +1,54 @@
+.painting-coach{min-width:0;margin-top:27px;padding-top:24px;border-top:1px solid var(--line)}
+.painting-coach-header{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:17px}
+.painting-coach-header h2{font-size:18px;line-height:1.3;letter-spacing:-.03em;font-weight:500;margin:0}
+.painting-coach-badge{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--secondary);flex-shrink:0}
+.painting-coach-badge i{width:5px;height:5px;border-radius:50%;background:var(--action)}
+.painting-coach-prompts{display:grid;gap:8px}
+.painting-coach-prompts button{display:flex;justify-content:space-between;align-items:center;gap:12px;text-align:left;border:1px solid var(--line);background:transparent;border-radius:8px;padding:10px 12px;min-height:48px;font-size:14px;line-height:1.5;transition:background 160ms,border-color 160ms}
+.painting-coach-prompts button:hover{background:var(--surface);border-color:#c5d0e4}
+.painting-coach-prompts button:active{background:#edf1f8}
+.painting-coach-prompts button svg{flex-shrink:0;color:var(--secondary)}
+.painting-coach-composer{margin-top:14px}
+.painting-coach-composer form{position:relative}
+.painting-coach-composer textarea{display:block;width:100%;min-height:96px;resize:vertical;background:transparent;border:1px solid #ccd3de;border-radius:10px;padding:12px 52px 12px 12px;font-size:14px;line-height:1.6;color:var(--ink);outline-offset:3px}
+.painting-coach-composer textarea::placeholder{color:var(--secondary);opacity:1}
+.painting-coach-composer form:focus-within textarea{border-color:#8b9fc9;background:var(--surface)}
+.painting-coach-send{position:absolute;bottom:8px;right:8px;width:36px;height:36px;display:grid;place-items:center;border:0;border-radius:7px;background:var(--ink);color:#fff;transition:background 160ms,transform 120ms}
+.painting-coach-send:disabled{background:#e1e5eb;color:#626e7d}
+.painting-coach-send:active:not(:disabled){transform:scale(.95)}
+.painting-coach-note,.painting-coach-limit{font-size:12px;line-height:1.6;color:var(--secondary);margin-top:10px}
+.painting-coach-limit{margin-top:5px}
+.painting-coach-current{padding-left:15px;border-left:2px solid #bdcde8;margin:0 0 18px}
+.painting-coach-question{font-size:14px;line-height:1.5;overflow-wrap:anywhere;margin:0 0 14px}
+.painting-coach-question>span{display:block;font-size:12px;font-weight:400;letter-spacing:0;color:var(--secondary);margin-bottom:5px}
+.painting-coach-answer-title{font-size:18px;font-weight:500;letter-spacing:-.025em;line-height:1.4;margin:0 0 8px;outline:none}
+.painting-coach-answer{font-size:15px;line-height:1.65}
+.painting-coach-answer-label{display:block;font-size:12px;color:var(--secondary);margin-bottom:9px}
+.painting-coach-answer>p{overflow-wrap:anywhere}
+.painting-coach-pending{display:flex;align-items:center;gap:9px;font-size:13px;color:var(--secondary);min-height:36px}
+.painting-coach-next{margin-top:15px;font-size:14px;line-height:1.65}
+.painting-coach-next>span{display:block;font-size:12px;font-weight:550;margin-bottom:4px}
+.painting-coach-example{display:flex;align-items:center;gap:8px;border:0;background:transparent;color:var(--action);text-align:left;font-size:14px;line-height:1.5;padding:11px 0;margin-top:5px;min-height:44px;width:100%}
+.painting-coach-example>span{flex:1;min-width:0}
+.painting-coach-example svg{flex-shrink:0}
+.painting-coach-example strong{font-weight:500}
+.painting-coach-example small{display:block;font-size:12px;color:var(--secondary);margin-top:2px}
+.painting-coach-example:hover strong{text-decoration:underline;text-underline-offset:3px}
+.painting-coach-example:active{opacity:.7}
+.painting-coach-answer .painting-coach-example-note{font-size:12px;line-height:1.65;color:var(--secondary);margin-top:4px}
+.painting-coach-sources{margin-top:8px;font-size:12px;color:var(--secondary)}
+.painting-coach-sources summary{cursor:pointer;padding:9px 0;width:fit-content}
+.painting-coach-sources ul{padding-left:16px;margin:6px 0}
+.painting-coach-sources li+li{margin-top:7px}
+.painting-coach-sources a{display:inline;line-height:1.7;text-decoration:underline;text-underline-offset:3px;overflow-wrap:anywhere}
+.painting-coach-sources a svg{display:inline;vertical-align:middle;margin-left:5px}
+.painting-coach-sources a:hover{color:var(--action)}
+.painting-coach-retry{display:flex;gap:6px;align-items:center;background:none;border:0;padding:8px 0;margin-top:5px;min-height:40px;font-size:12px;color:var(--action)}
+.painting-coach-history{font-size:12px;color:var(--secondary);margin-bottom:15px}
+.painting-coach-history>summary{padding:8px 0;cursor:pointer;width:fit-content}
+.painting-coach-history[open]{padding-bottom:17px;border-bottom:1px solid var(--line)}
+.painting-coach-history .painting-coach-exchange{padding-top:14px;color:var(--ink)}
+.painting-coach-history .painting-coach-exchange+.painting-coach-exchange{margin-top:18px;border-top:1px solid var(--line)}
+@media(max-width:800px) and (min-width:561px){.painting-coach{margin:0;padding:0;border:0}}
+@media(max-width:560px){.painting-coach{margin-top:22px;padding-top:22px}.painting-coach-header h2{font-size:19px}.painting-coach-composer textarea{font-size:16px;min-height:98px;padding-right:58px}.painting-coach-send{width:44px;height:44px}.painting-coach-retry,.painting-coach-sources summary{min-height:44px}}
+@media(prefers-reduced-motion:reduce){.painting-coach-prompts button,.painting-coach-send{transition:none}.painting-coach-send:active:not(:disabled){transform:none}.painting-coach .spinner{animation:none}}

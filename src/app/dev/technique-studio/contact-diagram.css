@@ -1,0 +1,54 @@
+.sculptural-contact {
+  border-top: 1px solid var(--studio-rule, #dfe3e8);
+  color: var(--studio-muted, #69717c);
+}
+
+.sculptural-contact > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 44px;
+  padding: 12px 0;
+  list-style: none;
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.sculptural-contact > summary::-webkit-details-marker { display: none; }
+.sculptural-contact > summary:focus-visible { outline: 2px solid #355fdb; outline-offset: 4px; }
+.sculptural-contact > summary > span {
+  flex: 0 0 6px;
+  width: 6px;
+  height: 6px;
+  margin-right: 3px;
+  border-right: 1px solid currentColor;
+  border-bottom: 1px solid currentColor;
+  transform: rotate(45deg) translateY(-2px);
+}
+.sculptural-contact[open] > summary > span { transform: rotate(225deg) translate(-1px, -1px); }
+
+.sculptural-contact figure { margin: 0; padding: 0 0 19px; }
+.sculptural-contact svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #fafaf9;
+  border-radius: 6px;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.sculptural-contact .contact-surface { stroke: #9ba4ad; stroke-width: 1.15; }
+.sculptural-contact .contact-surface-detail { stroke: #dce0e3; stroke-width: 1; }
+.sculptural-contact .contact-bristle-outline { fill: #fff; stroke: #7e8994; stroke-width: 1.15; }
+.sculptural-contact .contact-bristle { stroke: #bac1c8; stroke-width: .8; }
+.sculptural-contact .contact-point { fill: #5b6875; }
+.sculptural-contact .contact-direction { stroke: #7e8994; stroke-width: 1.15; }
+.sculptural-contact figcaption {
+  margin-top: 10px;
+  color: var(--studio-muted, #69717c);
+  font-size: 11px;
+  line-height: 1.7;
+}

@@ -1,0 +1,16 @@
+Warhammer 40k Primaris Space Marine figure
+Creator: DicamoCM
+Source: https://www.nexprint.com/en/models/G6817715
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), as listed by the creator on Nexprint.
+License text and terms: https://creativecommons.org/licenses/by/4.0/
+
+Modifications for Layer:
+- Converted OBJ to binary glTF (GLB).
+- Centered horizontally, grounded at Y=0, and uniformly scaled to 2.7 units high.
+- Simplified mesh topology, removed unused per-corner UVs, and rebuilt crease-aware normals.
+- Authored armour, trim, weapon, metal, flexible joints, leather, cloth, lenses, base and stone material regions.
+- Baked convex and concave surface weights for illustrative paint stages; the referenced source MTL and textures were not supplied.
+
+Please preserve this attribution and identify further changes when redistributing.
+This is a creator-uploaded model; Layer does not claim it is an official Games Workshop asset or that Games Workshop endorses Layer.

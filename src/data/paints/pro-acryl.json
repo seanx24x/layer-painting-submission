@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "monument-hobbies-mpa-001",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bold Titanium White",
+    "code": "MPA-001",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FFFFFF",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bold-titanium-white",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-002",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Coal Black",
+    "code": "MPA-002",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#242424",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-coal-black",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-003",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bold Pyrrole Red",
+    "code": "MPA-003",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#CF2030",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bold-pyrrole-red",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-004",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Green",
+    "code": "MPA-004",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#068247",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-005",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Blue",
+    "code": "MPA-005",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#1C5FAD",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-006",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Golden Yellow",
+    "code": "MPA-006",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FAD706",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-golden-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-007",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Orange",
+    "code": "MPA-007",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#F4792A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-orange",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-008",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Burnt Red",
+    "code": "MPA-008",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#7F3435",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-burnt-red",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-009",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Mahogany",
+    "code": "MPA-009",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#4E3B38",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-mahogany",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-010",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Purple",
+    "code": "MPA-010",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#7E4E7D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-purple",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-011",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Magenta",
+    "code": "MPA-011",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#BF4A72",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-magenta",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-012",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Sky Blue",
+    "code": "MPA-012",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#289FD9",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-sky-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-013",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Faded Ultramarine",
+    "code": "MPA-013",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#6388C5",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-faded-ultramarine",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-014",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Grey Blue",
+    "code": "MPA-014",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#133A5F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-grey-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-015",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bright Warm Grey",
+    "code": "MPA-015",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#ADB4A2",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bright-warm-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-016",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Warm Grey",
+    "code": "MPA-016",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#4B4E51",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-warm-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-017",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Golden Brown",
+    "code": "MPA-017",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#D4AD6B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-golden-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-018",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Light Umber",
+    "code": "MPA-018",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#6D5548",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-light-umber",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-019",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Umber",
+    "code": "MPA-019",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#51413B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-umber",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-020",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Camo Green",
+    "code": "MPA-020",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#4F5F4A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-camo-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-021",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Jade",
+    "code": "MPA-021",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#0D6161",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-jade",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-022",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bright Ivory",
+    "code": "MPA-022",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FAF8E3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bright-ivory",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-023",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Ivory",
+    "code": "MPA-023",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#E6DBCA",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-ivory",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-024",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Tan Flesh",
+    "code": "MPA-024",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#E0B4A4",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-tan-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-025",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Silver",
+    "code": "MPA-025",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#929797",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-silver",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-026",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Light Bronze",
+    "code": "MPA-026",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#9E8E71",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-light-bronze",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-027",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Copper",
+    "code": "MPA-027",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#915B37",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-copper",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-028",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Rich Gold",
+    "code": "MPA-028",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#AD7634",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-rich-gold",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-029",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "White Gold",
+    "code": "MPA-029",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#9C9482",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-white-gold",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-030",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Silver",
+    "code": "MPA-030",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#4A4D4D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-silver",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-031",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bright Gold",
+    "code": "MPA-031",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#C79A65",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bright-gold",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-032",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bronze",
+    "code": "MPA-032",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#5D4835",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bronze",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-034",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Blue",
+    "code": "MPA-034",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#121D45",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-035",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Purple",
+    "code": "MPA-035",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#201B49",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-purple",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-036",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Camo Green",
+    "code": "MPA-036",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#4E5348",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-camo-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-037",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Burnt Orange",
+    "code": "MPA-037",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#9C4539",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-burnt-orange",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-038",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Yellow Ochre",
+    "code": "MPA-038",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#CF9B49",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-yellow-ochre",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-039",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bright Yellow Green",
+    "code": "MPA-039",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#96BB3C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bright-yellow-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-040",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Black Brown",
+    "code": "MPA-040",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#474241",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-black-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-041",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Olive Flesh",
+    "code": "MPA-041",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#C7B49D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-olive-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-042",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Shadow Flesh",
+    "code": "MPA-042",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#A06058",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-shadow-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-043",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Pale Pink",
+    "code": "MPA-043",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FAD8D5",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-pale-pink",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-044",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Neutral Grey",
+    "code": "MPA-044",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#424548",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-neutral-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-045",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bright Neutral Grey",
+    "code": "MPA-045",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#DAD9D8",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bright-neutral-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-046",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Blue",
+    "code": "MPA-046",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#2B3973",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-047",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Red",
+    "code": "MPA-047",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#952C25",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-red",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-048",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Green",
+    "code": "MPA-048",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#114A34",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-049",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Yellow",
+    "code": "MPA-049",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#9E9831",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-050",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Orange",
+    "code": "MPA-050",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#A57232",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-orange",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-051",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Purple",
+    "code": "MPA-051",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#37294F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-purple",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-052",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Brown",
+    "code": "MPA-052",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#41352B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-053",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent Black",
+    "code": "MPA-053",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#0C0E0D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-transparent-black",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-054",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Turquoise",
+    "code": "MPA-054",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#20A1B3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-turquoise",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-055",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Grey Blue",
+    "code": "MPA-055",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#7EA1BF",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-grey-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-056",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Blue Black",
+    "code": "MPA-056",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#40464E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-blue-black",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-057",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Black Green",
+    "code": "MPA-057",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#37413A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-black-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-058",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bright Pale Green",
+    "code": "MPA-058",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#BBDDCE",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-bright-pale-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-059",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Burnt Sienna",
+    "code": "MPA-059",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#743222",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-burnt-sienna",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-060",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Pale Yellow",
+    "code": "MPA-060",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FDF0B1",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-pale-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-061",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Khaki",
+    "code": "MPA-061",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#D1C49B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/061-pro-acryl-khaki",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-062",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Golden Brown",
+    "code": "MPA-062",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#5E471A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-dark-golden-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-063",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Faded Plum",
+    "code": "MPA-063",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#A08CB5",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-faded-plum",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-064",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Transparent White",
+    "code": "MPA-064",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#D0CDCC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/064-pro-acryl-transparent-white",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-065",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Yellow Green",
+    "code": "MPA-065",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#6C7645",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/065-pro-acryl-yellow-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-066",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Faded Green",
+    "code": "MPA-066",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#98A890",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/066-pro-acryl-faded-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-067",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Bright Jade",
+    "code": "MPA-067",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#3B9F8C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/067-pro-acryl-bright-jade",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-068",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Dark Flesh",
+    "code": "MPA-068",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#5F3B38",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/068-pro-acryl-dark-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-069",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Burgundy",
+    "code": "MPA-069",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#76303B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/069-pro-acryl-burgundy",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-070",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Plum",
+    "code": "MPA-070",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#8A4E8C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/070-pro-acryl-plum",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-071",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Pink",
+    "code": "MPA-071",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#F19FAC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/071-pro-acryl-pink",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-072",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Warm Yellow",
+    "code": "MPA-072",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FDC111",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/072-pro-acryl-warm-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-073",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Warm Flesh",
+    "code": "MPA-073",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FDCA84",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/073-pro-acryl-warm-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-074",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Warm Grey",
+    "code": "MPA-074",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#616769",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/074-pro-acryl-warm-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-075",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl",
+    "name": "Neutral Grey",
+    "code": "MPA-075",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#575F66",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/075-pro-acryl-neutral-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-200",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Washes",
+    "name": "Black Wash",
+    "code": "MPA-200",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#080704",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/076-pro-acryl-black-wash",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-201",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Washes",
+    "name": "Brown Wash",
+    "code": "MPA-201",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#2A150D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/201-pro-acryl-brown-wash",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-202",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Washes",
+    "name": "Flesh Wash",
+    "code": "MPA-202",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#724136",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/202-pro-acryl-flesh-wash",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-500",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Blue",
+    "code": "MPA-500",
+    "finish": null,
+    "swatch": {
+      "hex": "#0396DB",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-500-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-501",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Royal Purple",
+    "code": "MPA-501",
+    "finish": null,
+    "swatch": {
+      "hex": "#8D278C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-501-royal-purple",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-502",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Crimson",
+    "code": "MPA-502",
+    "finish": null,
+    "swatch": {
+      "hex": "#E84F53",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-502-crimson",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-503",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Dark Blue Black",
+    "code": "MPA-503",
+    "finish": null,
+    "swatch": {
+      "hex": "#234F62",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-503-dark-blue-black",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-504",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Warm Yellow",
+    "code": "MPA-504",
+    "finish": null,
+    "swatch": {
+      "hex": "#FADB09",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-504-warm-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-505",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Dark Green",
+    "code": "MPA-505",
+    "finish": null,
+    "swatch": {
+      "hex": "#115B2C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-505-dark-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-506",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Shadow Flesh",
+    "code": "MPA-506",
+    "finish": null,
+    "swatch": {
+      "hex": "#E69A88",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-506-shadow-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-507",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Graphite Green",
+    "code": "MPA-507",
+    "finish": null,
+    "swatch": {
+      "hex": "#63AA93",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-507-graphite-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-508",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Graphite Grey",
+    "code": "MPA-508",
+    "finish": null,
+    "swatch": {
+      "hex": "#727379",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-508-graphite-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-509",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Dark Green Brown",
+    "code": "MPA-509",
+    "finish": null,
+    "swatch": {
+      "hex": "#534C1E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-509-dark-green-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-510",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Warm Brown",
+    "code": "MPA-510",
+    "finish": null,
+    "swatch": {
+      "hex": "#8E3C1D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-510-warm-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-511",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Orange",
+    "code": "MPA-511",
+    "finish": null,
+    "swatch": {
+      "hex": "#F2753E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-511-orange",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-512",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Rust",
+    "code": "MPA-512",
+    "finish": null,
+    "swatch": {
+      "hex": "#C56031",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-512-rust",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-513",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Scarlet Red",
+    "code": "MPA-513",
+    "finish": null,
+    "swatch": {
+      "hex": "#C42724",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-513-scarlet-red",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-514",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Olive Yellow",
+    "code": "MPA-514",
+    "finish": null,
+    "swatch": {
+      "hex": "#E4C732",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-513-scarlet-red-copy",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-515",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Dark Purple",
+    "code": "MPA-515",
+    "finish": null,
+    "swatch": {
+      "hex": "#454B8F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-514-dark-purple",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-516",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Dark Brown",
+    "code": "MPA-516",
+    "finish": null,
+    "swatch": {
+      "hex": "#BF967A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-516-dark-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-517",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Dark Green Blue",
+    "code": "MPA-517",
+    "finish": null,
+    "swatch": {
+      "hex": "#466C71",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-517-dark-green-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-518",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Bright Slate Grey",
+    "code": "MPA-518",
+    "finish": null,
+    "swatch": {
+      "hex": "#C1C6C6",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-518-bright-slate-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-519",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Yellow Green",
+    "code": "MPA-519",
+    "finish": null,
+    "swatch": {
+      "hex": "#A9C935",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-519-yellow-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-520",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Deep Blue",
+    "code": "MPA-520",
+    "finish": null,
+    "swatch": {
+      "hex": "#3165AC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-520-deep-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-521",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Bronze Yellow",
+    "code": "MPA-521",
+    "finish": null,
+    "swatch": {
+      "hex": "#D4A446",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-521-bronze-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-522",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Dark Turquoise",
+    "code": "MPA-522",
+    "finish": null,
+    "swatch": {
+      "hex": "#1F8C9B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-522-dark-turquoise",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-523",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl 1-Step",
+    "name": "Black",
+    "code": "MPA-523",
+    "finish": null,
+    "swatch": {
+      "hex": "#666669",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-acryl-1-step-523-black",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-f01",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Fluorescents",
+    "name": "Fluorescent Red",
+    "code": "MPA-F01",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#EE3536",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/f01-fluorescent-red",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-f02",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Fluorescents",
+    "name": "Fluorescent Orange",
+    "code": "MPA-F02",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#F04C25",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/f02-pro-acryl-fluorescent-orange",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-f03",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Fluorescents",
+    "name": "Fluorescent Yellow",
+    "code": "MPA-F03",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#F0DE1D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/f03-pro-acryl-fluorescent-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-f04",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Fluorescents",
+    "name": "Fluorescent Green",
+    "code": "MPA-F04",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#3EB649",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/f04-pro-acryl-fluorescent-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-f05",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Fluorescents",
+    "name": "Fluorescent Purple",
+    "code": "MPA-F05",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#A32288",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/f05-pro-acryl-fluorescent-purple",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-f06",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Fluorescents",
+    "name": "Fluorescent Pink",
+    "code": "MPA-F06",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#EE2F7C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/f06-pro-acryl-fluorescent-pink",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s01",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Vince Venturella Dark Jade",
+    "code": "MPA-S01",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#29444B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s01-pro-acryl-dark-jade",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s02",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Vince Venturella Payne's Grey",
+    "code": "MPA-S02",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#303952",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s02-vince-venturella-paynes-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s03",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Vince Venturella Royal Purple",
+    "code": "MPA-S03",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#523560",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s03-vince-venturella-royal-purple",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s04",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Vince Venturella White Blue",
+    "code": "MPA-S04",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#C4E7ED",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s04-vince-venturella-white-blue",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s05",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Vince Venturella Beige Red",
+    "code": "MPA-S05",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#AF837B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s05-vince-venturella-beige-red",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s06",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Vince Venturella Dark Yellow Green",
+    "code": "MPA-S06",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#55583D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s06-vince-venturella-dark-yellow-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s07",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ninjon Dark Ivory",
+    "code": "MPA-S07",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#BBB9AC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s07-ninjon-dark-ivory",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s08",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ninjon Dark Warm Flesh",
+    "code": "MPA-S08",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#DFAF6F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s08-ninjon-dark-warm-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s09",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ninjon Warm Brown",
+    "code": "MPA-S09",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#88503F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s09-ninjon-warm-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s10",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ninjon Dark Magenta",
+    "code": "MPA-S10",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#821330",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s10-ninjon-dark-magenta",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s11",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ninjon Dark Plum",
+    "code": "MPA-S11",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#42202C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s11-ninjon-dark-plum",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s12",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ninjon Red Grey",
+    "code": "MPA-S12",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#715C5F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s12-ninjon-red-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s13",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ben Komets Dark Sea Ben",
+    "code": "MPA-S13",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#072435",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s13-ben-komets-dark-sea-ben",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s14",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ben Komets Petroleum Brown",
+    "code": "MPA-S14",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#452815",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s14-ben-komets-petroleum-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s15",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ben Komets Dark Burgundy",
+    "code": "MPA-S15",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#321B1B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s15-ben-komets-dark-burgundy",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s16",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ben Komets Green Oxide",
+    "code": "MPA-S16",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#0D6D60",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s16-ben-komets-green-oxide",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s17",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ben Komets Advanced Flesh Tone",
+    "code": "MPA-S17",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#9A6552",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s17-ben-komets-advanced-flesh-tone",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s18",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Ben Komets Heavy Warm White",
+    "code": "MPA-S18",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FEDEAD",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s18-ben-komets-heavy-warm-white",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s19",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Matt Cexwish Dark Crimson",
+    "code": "MPA-S19",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#431514",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s19-matt-cexwish-dark-crimson",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s20",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Matt Cexwish Dark Emerald",
+    "code": "MPA-S20",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#17494D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s20-matt-cexwish-dark-emerald",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s21",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Matt Cexwish Heavy Titanium White",
+    "code": "MPA-S21",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FFFFFF",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s21-matt-cexwish-heavy-titanium-white",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s22",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Matt Cexwish Brown Grey",
+    "code": "MPA-S22",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#52514D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s21-matt-cexwish-brown-grey",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s23",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Matt Cexwish Bone",
+    "code": "MPA-S23",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#A29891",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s23-matt-cexwish-bone",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s24",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Matt Cexwish Dark Bronze",
+    "code": "MPA-S24",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#443025",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s24-matt-cexwish-dark-bronze",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s25",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Flameon Dark Green Brown",
+    "code": "MPA-S25",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#3E301D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s25-flameon-dark-green-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s26",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Flameon Dark Orange Brown",
+    "code": "MPA-S26",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#604428",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s26-flameon-dark-orange-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s27",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Flameon Orange Brown",
+    "code": "MPA-S27",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#8D5C25",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s27-flameon-orange-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s28",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Flameon Caramel Brown",
+    "code": "MPA-S28",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#7F5F3D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s28-flameon-caramel-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s29",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Flameon Bright Yellow Ochre",
+    "code": "MPA-S29",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#DDA55A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s29-flameon-bright-yellow-ochre",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s30",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Flameon Bright Pale Yellow",
+    "code": "MPA-S30",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#FDF9CD",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s30-flameon-bright-pale-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s31",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Rogue Hobbies Orange Red",
+    "code": "MPA-S31",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#E63440",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s31-rogue-hobbies-orange-red",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s32",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Rogue Hobbies Dark Hot Pink",
+    "code": "MPA-S32",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#C4295B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s32-rogue-hobbies-dark-hot-pink",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s33",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Rogue Hobbies Bright Green",
+    "code": "MPA-S33",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#22A361",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s33-rogue-hobbies-bright-green",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s34",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Rogue Hobbies Dark Turquoise",
+    "code": "MPA-S34",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#107D95",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s34-rogue-hobbies-dark-turquoise",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s35",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Rogue Hobbies Ultramarine",
+    "code": "MPA-S35",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#3B5FAB",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s35-rogue-hobbies-ultramarine",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s36",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Rogue Hobbies Bismuth Yellow",
+    "code": "MPA-S36",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#F8D866",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s36-rogue-hobbies-bismuth-yellow",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s37",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Adepticon Red Oxide",
+    "code": "MPA-S37",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#85332F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s37-adepticon-red-oxide",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s38",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Adepticon Orange Oxide",
+    "code": "MPA-S38",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#7F4B30",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s38-adepticon-orange-oxide",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s39",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Adepticon Satin Black",
+    "code": "MPA-S39",
+    "finish": "satin",
+    "swatch": {
+      "hex": "#0F100F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s39-adepticon-satin-black",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s40",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Adepticon Drab Brown",
+    "code": "MPA-S40",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#4E3E27",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s40-adepticon-drab-brown",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s41",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Adepticon Bright Shadow Flesh",
+    "code": "MPA-S41",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#F69B7D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s41-adepticon-bright-shadow-flesh",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s42",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "Adepticon Magnesium",
+    "code": "MPA-S42",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#453D2E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s42-adepticon-magnesium",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "monument-hobbies-mpa-s49",
+    "brand": "Monument Hobbies",
+    "range": "Pro Acryl Signature Series",
+    "name": "NOVA Orange",
+    "code": "MPA-S49",
+    "finish": "matte",
+    "swatch": {
+      "hex": "#F37129",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://drive.google.com/uc?export=download&id=1s37xlpZDHq1IGg4wyGyhsNbBSnrLqTzZ",
+      "note": "Median RGB from a label-free 7x7 patch inside the official chart circle, matched by printed paint code and rendered at 2x with PDFium. Illustrative, not a calibrated paint measurement; does not reproduce sheen, opacity or fluorescence."
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/s49-nova-orange",
+    "verifiedAt": "2026-10-07"
+  }
+]

@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "the-army-painter-wp3001p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Matt Black",
+    "code": "WP3001P",
+    "finish": null,
+    "swatch": {
+      "hex": "#000000",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-matt-black-wp3001p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3002p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Deep Grey",
+    "code": "WP3002P",
+    "finish": null,
+    "swatch": {
+      "hex": "#4D5164",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-deep-grey-wp3002p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3003p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Uniform Grey",
+    "code": "WP3003P",
+    "finish": null,
+    "swatch": {
+      "hex": "#6A6F7B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-uniform-grey-wp3003p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3004p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Ash Grey",
+    "code": "WP3004P",
+    "finish": null,
+    "swatch": {
+      "hex": "#84888E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-ash-grey-wp3004p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3005p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Company Grey",
+    "code": "WP3005P",
+    "finish": null,
+    "swatch": {
+      "hex": "#BBBDC2",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-company-grey-wp3005p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3006p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Brigade Grey",
+    "code": "WP3006P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D0D0D3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-brigade-grey-wp3006p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3007p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Grey Castle",
+    "code": "WP3007P",
+    "finish": null,
+    "swatch": {
+      "hex": "#929188",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-grey-castle-wp3007p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3008p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Gargoyle Grey",
+    "code": "WP3008P",
+    "finish": null,
+    "swatch": {
+      "hex": "#A8A293",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-gargoyle-grey-wp3008p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3009p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Great Hall Grey",
+    "code": "WP3009P",
+    "finish": null,
+    "swatch": {
+      "hex": "#BCB4A7",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-great-hall-grey-wp3009p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3010p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Worn Stone",
+    "code": "WP3010P",
+    "finish": null,
+    "swatch": {
+      "hex": "#C3BFB1",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-worn-stone-wp3010p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3011p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Brainmatter Beige",
+    "code": "WP3011P",
+    "finish": null,
+    "swatch": {
+      "hex": "#DEDBD2",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-brainmatter-beige-wp3011p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3012p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Matt White",
+    "code": "WP3012P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FFFFFF",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-matt-white-wp3012p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3013p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Night Sky",
+    "code": "WP3013P",
+    "finish": null,
+    "swatch": {
+      "hex": "#304359",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-night-sky-wp3013p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3014p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Thunderous Blue",
+    "code": "WP3014P",
+    "finish": null,
+    "swatch": {
+      "hex": "#355579",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-thunderous-blue-wp3014p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3015p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Stratos Blue",
+    "code": "WP3015P",
+    "finish": null,
+    "swatch": {
+      "hex": "#33648F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-stratos-blue-wp3015p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3016p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Wolf Grey",
+    "code": "WP3016P",
+    "finish": null,
+    "swatch": {
+      "hex": "#4F79A4",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wolf-grey-wp3016p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3017p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Runic Cobalt",
+    "code": "WP3017P",
+    "finish": null,
+    "swatch": {
+      "hex": "#7495B3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-runic-cobalt-wp3017p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3018p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Frost Blue",
+    "code": "WP3018P",
+    "finish": null,
+    "swatch": {
+      "hex": "#9ABEDD",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-frost-blue-wp3018p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3019p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Triumphant Navy",
+    "code": "WP3019P",
+    "finish": null,
+    "swatch": {
+      "hex": "#182C54",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-triumphant-navy-wp3019p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3020p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Gothic Blue",
+    "code": "WP3020P",
+    "finish": null,
+    "swatch": {
+      "hex": "#2E3F77",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-gothic-blue-wp3020p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3021p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Ultramarine Blue",
+    "code": "WP3021P",
+    "finish": null,
+    "swatch": {
+      "hex": "#274D8E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-ultramarine-blue-wp3021p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3022p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Alpha Blue",
+    "code": "WP3022P",
+    "finish": null,
+    "swatch": {
+      "hex": "#667EBF",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-alpha-blue-wp3022p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3023p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Baron Blue",
+    "code": "WP3023P",
+    "finish": null,
+    "swatch": {
+      "hex": "#7C96CC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-baron-blue-wp3023p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3024p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Augur Blue",
+    "code": "WP3024P",
+    "finish": null,
+    "swatch": {
+      "hex": "#ABBEE1",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-augur-blue-wp3024p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3025p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Imperial Navy",
+    "code": "WP3025P",
+    "finish": null,
+    "swatch": {
+      "hex": "#053663",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-imperial-navy-wp3025p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3026p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Regal Blue",
+    "code": "WP3026P",
+    "finish": null,
+    "swatch": {
+      "hex": "#004F89",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-regal-blue-wp3026p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3027p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Royal Blue",
+    "code": "WP3027P",
+    "finish": null,
+    "swatch": {
+      "hex": "#0162B0",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-royal-blue-wp3027p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3028p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Crystal Blue",
+    "code": "WP3028P",
+    "finish": null,
+    "swatch": {
+      "hex": "#0073BC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-crystal-blue-wp3028p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3029p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Arctic Gem",
+    "code": "WP3029P",
+    "finish": null,
+    "swatch": {
+      "hex": "#1A95D3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-arctic-gem-wp3029p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3030p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Bright Sapphire",
+    "code": "WP3030P",
+    "finish": null,
+    "swatch": {
+      "hex": "#84CEF2",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-bright-sapphire-wp3030p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3031p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Deep Ocean Blue",
+    "code": "WP3031P",
+    "finish": null,
+    "swatch": {
+      "hex": "#1A3143",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-deep-ocean-blue-wp3031p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3032p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Abyssal Blue",
+    "code": "WP3032P",
+    "finish": null,
+    "swatch": {
+      "hex": "#004F6B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-abyssal-blue-wp3032p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3033p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Tidal Blue",
+    "code": "WP3033P",
+    "finish": null,
+    "swatch": {
+      "hex": "#036C95",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-tidal-blue-wp3033p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3034p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Phalanx Blue",
+    "code": "WP3034P",
+    "finish": null,
+    "swatch": {
+      "hex": "#0189AE",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-phalanx-blue-wp3034p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3035p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Shieldwall Blue",
+    "code": "WP3035P",
+    "finish": null,
+    "swatch": {
+      "hex": "#08A1C9",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-shieldwall-blue-wp3035p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3036p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Aegis Aqua",
+    "code": "WP3036P",
+    "finish": null,
+    "swatch": {
+      "hex": "#32B3D5",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-aegis-aqua-wp3036p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3037p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Deep Azure",
+    "code": "WP3037P",
+    "finish": null,
+    "swatch": {
+      "hex": "#006B79",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-deep-azure-wp3037p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3038p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Hydra Turquoise",
+    "code": "WP3038P",
+    "finish": null,
+    "swatch": {
+      "hex": "#129397",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-hydra-turquoise-wp3038p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3039p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Turquoise Siren",
+    "code": "WP3039P",
+    "finish": null,
+    "swatch": {
+      "hex": "#29B4B9",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-turquoise-siren-wp3039p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3040p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Aquamarine",
+    "code": "WP3040P",
+    "finish": null,
+    "swatch": {
+      "hex": "#56C5CB",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-aquamarine-wp3040p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3041p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Neptune Glow",
+    "code": "WP3041P",
+    "finish": null,
+    "swatch": {
+      "hex": "#76CDD3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-neptune-glow-wp3041p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3042p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Marine Mist",
+    "code": "WP3042P",
+    "finish": null,
+    "swatch": {
+      "hex": "#94D5D5",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-marine-mist-wp3042p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3043p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Scarab Green",
+    "code": "WP3043P",
+    "finish": null,
+    "swatch": {
+      "hex": "#193B44",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-scarab-green-wp3043p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3044p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Temple Gate Teal",
+    "code": "WP3044P",
+    "finish": null,
+    "swatch": {
+      "hex": "#046052",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-temple-gate-teal-wp3044p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3045p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Pharaoh Guard",
+    "code": "WP3045P",
+    "finish": null,
+    "swatch": {
+      "hex": "#0D7B62",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-pharaoh-guard-wp3045p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3046p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Talisman Teal",
+    "code": "WP3046P",
+    "finish": null,
+    "swatch": {
+      "hex": "#1FAE90",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-talisman-teal-wp3046p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3047p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Aqua Alchemy",
+    "code": "WP3047P",
+    "finish": null,
+    "swatch": {
+      "hex": "#24BCA3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-aqua-alchemy-wp3047p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3048p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Amulet Aqua",
+    "code": "WP3048P",
+    "finish": null,
+    "swatch": {
+      "hex": "#66C5B4",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-amulet-aqua-wp3048p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3049p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Angel Green",
+    "code": "WP3049P",
+    "finish": null,
+    "swatch": {
+      "hex": "#173E30",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-angel-green-wp3049p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3050p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Guardian Green",
+    "code": "WP3050P",
+    "finish": null,
+    "swatch": {
+      "hex": "#226248",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-guardian-green-wp3050p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3051p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Greenskin",
+    "code": "WP3051P",
+    "finish": null,
+    "swatch": {
+      "hex": "#187038",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-greenskin-wp3051p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3052p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Eternal Hunt",
+    "code": "WP3052P",
+    "finish": null,
+    "swatch": {
+      "hex": "#289A4B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-eternal-hunt-wp3052p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3053p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Wild Green",
+    "code": "WP3053P",
+    "finish": null,
+    "swatch": {
+      "hex": "#46B857",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wild-green-wp3053p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3054p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Ferocious Green",
+    "code": "WP3054P",
+    "finish": null,
+    "swatch": {
+      "hex": "#74C378",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-ferocious-green-wp3054p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3055p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Emerald Forest",
+    "code": "WP3055P",
+    "finish": null,
+    "swatch": {
+      "hex": "#5CBB4D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-emerald-forest-wp3055p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3056p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Leafy Green",
+    "code": "WP3056P",
+    "finish": null,
+    "swatch": {
+      "hex": "#76C043",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-leafy-green-wp3056p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3057p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Rainforest",
+    "code": "WP3057P",
+    "finish": null,
+    "swatch": {
+      "hex": "#8BC63E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-rainforest-wp3057p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3058p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Electric Lime",
+    "code": "WP3058P",
+    "finish": null,
+    "swatch": {
+      "hex": "#BCD531",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-electric-lime-wp3058p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3059p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Vivid Volt",
+    "code": "WP3059P",
+    "finish": null,
+    "swatch": {
+      "hex": "#CFDE50",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-vivid-volt-wp3059p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3060p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Afterglow",
+    "code": "WP3060P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E4E98E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-afterglow-wp3060p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3061p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Evergreen Fog",
+    "code": "WP3061P",
+    "finish": null,
+    "swatch": {
+      "hex": "#38635F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-evergreen-fog-wp3061p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3062p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Medieval Forest",
+    "code": "WP3062P",
+    "finish": null,
+    "swatch": {
+      "hex": "#427C6D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-medieval-forest-wp3062p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3063p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Patagon Pine",
+    "code": "WP3063P",
+    "finish": null,
+    "swatch": {
+      "hex": "#61927F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-patagon-pine-wp3063p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3064p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Autumn Sage",
+    "code": "WP3064P",
+    "finish": null,
+    "swatch": {
+      "hex": "#74AC98",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-autumn-sage-wp3064p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3065p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Forest Faun",
+    "code": "WP3065P",
+    "finish": null,
+    "swatch": {
+      "hex": "#A1C8AE",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-forest-faun-wp3065p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3066p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Mossy Green",
+    "code": "WP3066P",
+    "finish": null,
+    "swatch": {
+      "hex": "#B1DCC0",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-mossy-green-wp3066p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3067p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Woodland Camo",
+    "code": "WP3067P",
+    "finish": null,
+    "swatch": {
+      "hex": "#394938",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-woodland-camo-wp3067p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3068p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Army Green",
+    "code": "WP3068P",
+    "finish": null,
+    "swatch": {
+      "hex": "#485C3D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-army-green-wp3068p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3069p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Camouflage Green",
+    "code": "WP3069P",
+    "finish": null,
+    "swatch": {
+      "hex": "#5C6E4C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-camouflage-green-wp3069p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3070p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Olive Drab",
+    "code": "WP3070P",
+    "finish": null,
+    "swatch": {
+      "hex": "#6E8358",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-olive-drab-wp3070p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3071p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Necrotic Flesh",
+    "code": "WP3071P",
+    "finish": null,
+    "swatch": {
+      "hex": "#9BA984",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-necrotic-flesh-wp3071p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3072p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Grotesque Green",
+    "code": "WP3072P",
+    "finish": null,
+    "swatch": {
+      "hex": "#B1C29D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-grotesque-green-wp3072p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3073p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Brigandine Brown",
+    "code": "WP3073P",
+    "finish": null,
+    "swatch": {
+      "hex": "#281F22",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-brigandine-brown-wp3073p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3074p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Bootstrap Brown",
+    "code": "WP3074P",
+    "finish": null,
+    "swatch": {
+      "hex": "#472E30",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-bootstrap-brown-wp3074p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3075p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Leather Brown",
+    "code": "WP3075P",
+    "finish": null,
+    "swatch": {
+      "hex": "#634037",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-leather-brown-wp3075p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3076p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Paratrooper Tan",
+    "code": "WP3076P",
+    "finish": null,
+    "swatch": {
+      "hex": "#99776C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-paratrooper-tan-wp3076p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3077p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Command Khaki",
+    "code": "WP3077P",
+    "finish": null,
+    "swatch": {
+      "hex": "#B49389",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-command-khaki-wp3077p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3078p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Urban Buff",
+    "code": "WP3078P",
+    "finish": null,
+    "swatch": {
+      "hex": "#DBB9AA",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-urban-buff-wp3078p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3079p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Tundra Taupe",
+    "code": "WP3079P",
+    "finish": null,
+    "swatch": {
+      "hex": "#4B4E3E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-tundra-taupe-wp3079p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3080p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Prairie Ochre",
+    "code": "WP3080P",
+    "finish": null,
+    "swatch": {
+      "hex": "#686243",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-prairie-ochre-wp3080p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3081p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Desert Yellow",
+    "code": "WP3081P",
+    "finish": null,
+    "swatch": {
+      "hex": "#826F45",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-desert-yellow-wp3081p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3082p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Wasteland Clay",
+    "code": "WP3082P",
+    "finish": null,
+    "swatch": {
+      "hex": "#A38754",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wasteland-clay-wp3082p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3083p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Burnt Turf",
+    "code": "WP3083P",
+    "finish": null,
+    "swatch": {
+      "hex": "#BD9858",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-burnt-turf-wp3083p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3084p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Barren Dune",
+    "code": "WP3084P",
+    "finish": null,
+    "swatch": {
+      "hex": "#DBBA72",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-barren-dune-wp3084p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3085p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dusty Skull",
+    "code": "WP3085P",
+    "finish": null,
+    "swatch": {
+      "hex": "#8A7C67",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-dusty-skull-wp3085p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3086p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Tomb King Tan",
+    "code": "WP3086P",
+    "finish": null,
+    "swatch": {
+      "hex": "#A49278",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-tomb-king-tan-wp3086p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3087p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Skeleton Bone",
+    "code": "WP3087P",
+    "finish": null,
+    "swatch": {
+      "hex": "#C0B293",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-skeleton-bone-wp3087p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3088p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Ancient Stone",
+    "code": "WP3088P",
+    "finish": null,
+    "swatch": {
+      "hex": "#CFC3A3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-ancient-stone-wp3088p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3089p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Bony Spikes",
+    "code": "WP3089P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E6D5BF",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-bony-spikes-wp3089p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3090p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Pale Sand",
+    "code": "WP3090P",
+    "finish": null,
+    "swatch": {
+      "hex": "#EEE9D3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-pale-sand-wp3090p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3091p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Demigod Flames",
+    "code": "WP3091P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D17A41",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-demigod-flames-wp3091p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3092p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Fiendish Yellow",
+    "code": "WP3092P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E39C2D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-fiendish-yellow-wp3092p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3093p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Daemonic Yellow",
+    "code": "WP3093P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FECD29",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-daemonic-yellow-wp3093p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3094p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Warped Yellow",
+    "code": "WP3094P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FFD548",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-warped-yellow-wp3094p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3095p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Space Dust",
+    "code": "WP3095P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FFE386",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-space-dust-wp3095p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3096p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Ice Yellow",
+    "code": "WP3096P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FFEDAD",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-ice-yellow-wp3096p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3097p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Molten Lava",
+    "code": "WP3097P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F05136",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-molten-lava-wp3097p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3098p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Burning Ore",
+    "code": "WP3098P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F2642C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-burning-ore-wp3098p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3099p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Lava Orange",
+    "code": "WP3099P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F57F21",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-lava-orange-wp3099p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3100p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Flickering Flame",
+    "code": "WP3100P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F58B3C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-flickering-flame-wp3100p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3101p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Glowing Inferno",
+    "code": "WP3101P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F89C3D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-glowing-inferno-wp3101p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3102p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Inner Light",
+    "code": "WP3102P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FECB5E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-inner-light-wp3102p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3103p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Resplendent Red",
+    "code": "WP3103P",
+    "finish": null,
+    "swatch": {
+      "hex": "#97272E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-resplendent-red-wp3103p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3104p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Angelic Red",
+    "code": "WP3104P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D42C38",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-angelic-red-wp3104p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3105p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Legendary Red",
+    "code": "WP3105P",
+    "finish": null,
+    "swatch": {
+      "hex": "#EF4B3F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-legendary-red-wp3105p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3106p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Sacred Scarlet",
+    "code": "WP3106P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F1634B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-sacred-scarlet-wp3106p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3107p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Violent Vermilion",
+    "code": "WP3107P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F37A62",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. Official chart spelling: Violent Vermillion; current shop spelling: Violent Vermilion."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-violent-vermilion-wp3107p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3108p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Raging Rouge",
+    "code": "WP3108P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F48F82",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-raging-rouge-wp3108p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3109p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Oak Brown",
+    "code": "WP3109P",
+    "finish": null,
+    "swatch": {
+      "hex": "#38262A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-oak-brown-wp3109p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3110p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Tree Ancient",
+    "code": "WP3110P",
+    "finish": null,
+    "swatch": {
+      "hex": "#503531",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-tree-ancient-wp3110p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3111p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dryad Brown",
+    "code": "WP3111P",
+    "finish": null,
+    "swatch": {
+      "hex": "#613731",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-dryad-brown-wp3111p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3112p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Fur Brown",
+    "code": "WP3112P",
+    "finish": null,
+    "swatch": {
+      "hex": "#784545",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-fur-brown-wp3112p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3113p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Ruddy Umber",
+    "code": "WP3113P",
+    "finish": null,
+    "swatch": {
+      "hex": "#975A51",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-ruddy-umber-wp3113p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3114p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Buffed Hide",
+    "code": "WP3114P",
+    "finish": null,
+    "swatch": {
+      "hex": "#B17569",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-buffed-hide-wp3114p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3115p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Basilisk Red",
+    "code": "WP3115P",
+    "finish": null,
+    "swatch": {
+      "hex": "#6D2639",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-basilisk-red-wp3115p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3116p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Wyvern Fury",
+    "code": "WP3116P",
+    "finish": null,
+    "swatch": {
+      "hex": "#993243",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wyvern-fury-wp3116p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3117p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dragon Red",
+    "code": "WP3117P",
+    "finish": null,
+    "swatch": {
+      "hex": "#BF283B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-dragon-red-wp3117p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3118p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Pure Red",
+    "code": "WP3118P",
+    "finish": null,
+    "swatch": {
+      "hex": "#CD151D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-pure-red-wp3118p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3119p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Blood Chalice",
+    "code": "WP3119P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D94B4E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-blood-chalice-wp3119p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3120p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Raging Rose",
+    "code": "WP3120P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E96662",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-raging-rose-wp3120p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3121p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Wicked Pink",
+    "code": "WP3121P",
+    "finish": null,
+    "swatch": {
+      "hex": "#CE0786",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wicked-pink-wp3121p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3122p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Impish Rouge",
+    "code": "WP3122P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D957A0",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-impish-rouge-wp3122p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3123p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Pixie Pink",
+    "code": "WP3123P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D96FAC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-pixie-pink-wp3123p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3124p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Weird Elixir",
+    "code": "WP3124P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E193BF",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-weird-elixir-wp3124p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3125p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Pink Potion",
+    "code": "WP3125P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F6B9D4",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-pink-potion-wp3125p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3126p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Doomfire Drab",
+    "code": "WP3126P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FAD9E7",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-doomfire-drab-wp3126p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3127p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Terrestrial Titan",
+    "code": "WP3127P",
+    "finish": null,
+    "swatch": {
+      "hex": "#303048",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-terrestrial-titan-wp3127p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3128p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Alien Purple",
+    "code": "WP3128P",
+    "finish": null,
+    "swatch": {
+      "hex": "#6054A3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-alien-purple-wp3128p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3129p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Cultist Purple",
+    "code": "WP3129P",
+    "finish": null,
+    "swatch": {
+      "hex": "#6B62AC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-cultist-purple-wp3129p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3130p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Hexed Violet",
+    "code": "WP3130P",
+    "finish": null,
+    "swatch": {
+      "hex": "#8D82BD",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-hexed-violet-wp3130p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3131p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Violet Coven",
+    "code": "WP3131P",
+    "finish": null,
+    "swatch": {
+      "hex": "#AA98C8",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-violet-coven-wp3131p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3132p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Kraken Lavender",
+    "code": "WP3132P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D5CBE4",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-kraken-lavender-wp3132p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3133p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Diabolic Plum",
+    "code": "WP3133P",
+    "finish": null,
+    "swatch": {
+      "hex": "#562D72",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-diabolic-plum-wp3133p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3134p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Magecast Magenta",
+    "code": "WP3134P",
+    "finish": null,
+    "swatch": {
+      "hex": "#714099",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-magecast-magenta-wp3134p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3135p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Warlock Magenta",
+    "code": "WP3135P",
+    "finish": null,
+    "swatch": {
+      "hex": "#844C9E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-warlock-magenta-wp3135p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3136p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Spellbound Fuchsia",
+    "code": "WP3136P",
+    "finish": null,
+    "swatch": {
+      "hex": "#AD4F9F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-spellbound-fuchsia-wp3136p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3137p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Enchanted Pink",
+    "code": "WP3137P",
+    "finish": null,
+    "swatch": {
+      "hex": "#B56CAC",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-enchanted-pink-wp3137p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3138p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Diviner Light",
+    "code": "WP3138P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D49EC7",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-diviner-light-wp3138p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3139p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Mulled Berry",
+    "code": "WP3139P",
+    "finish": null,
+    "swatch": {
+      "hex": "#613448",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-mulled-berry-wp3139p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3140p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Moldy Wine",
+    "code": "WP3140P",
+    "finish": null,
+    "swatch": {
+      "hex": "#7C3451",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-moldy-wine-wp3140p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3141p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Elder Flower",
+    "code": "WP3141P",
+    "finish": null,
+    "swatch": {
+      "hex": "#A7577B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-elder-flower-wp3141p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3142p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Forbidden Fruit",
+    "code": "WP3142P",
+    "finish": null,
+    "swatch": {
+      "hex": "#CD89A6",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-forbidden-fruit-wp3142p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3143p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Figgy Pink",
+    "code": "WP3143P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E3AEC7",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-figgy-pink-wp3143p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3144p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Wilted Rose",
+    "code": "WP3144P",
+    "finish": null,
+    "swatch": {
+      "hex": "#ECC5D7",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wilted-rose-wp3144p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3145p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Moonstone Skin",
+    "code": "WP3145P",
+    "finish": null,
+    "swatch": {
+      "hex": "#C57A73",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-moonstone-skin-wp3145p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3146p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Agate Skin",
+    "code": "WP3146P",
+    "finish": null,
+    "swatch": {
+      "hex": "#D7867B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-agate-skin-wp3146p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3147p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Barbarian Flesh",
+    "code": "WP3147P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F69A80",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-barbarian-flesh-wp3147p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3148p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Ruby Skin",
+    "code": "WP3148P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FAB89D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-ruby-skin-wp3148p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3149p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Opal Skin",
+    "code": "WP3149P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FCD3C4",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-opal-skin-wp3149p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3150p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Pearl Skin",
+    "code": "WP3150P",
+    "finish": null,
+    "swatch": {
+      "hex": "#FDE3D8",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-pearl-skin-wp3150p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3151p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Carnelian Skin",
+    "code": "WP3151P",
+    "finish": null,
+    "swatch": {
+      "hex": "#5E3E46",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-carnelian-skin-wp3151p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3152p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Tiger's Eye Skin",
+    "code": "WP3152P",
+    "finish": null,
+    "swatch": {
+      "hex": "#8F4C51",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-tiger-s-eye-skin-wp3152p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3153p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Topaz Skin",
+    "code": "WP3153P",
+    "finish": null,
+    "swatch": {
+      "hex": "#B35953",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-topaz-skin-wp3153p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3154p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Jasper Skin",
+    "code": "WP3154P",
+    "finish": null,
+    "swatch": {
+      "hex": "#BA7573",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-jasper-skin-wp3154p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3155p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Tourmaline Skin",
+    "code": "WP3155P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E29A8D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-tourmaline-skin-wp3155p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3156p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Leopard Stone Skin",
+    "code": "WP3156P",
+    "finish": null,
+    "swatch": {
+      "hex": "#E8B5B1",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-leopard-stone-skin-wp3156p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3157p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Obsidian Skin",
+    "code": "WP3157P",
+    "finish": null,
+    "swatch": {
+      "hex": "#493F45",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-obsidian-skin-wp3157p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3158p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Onyx Skin",
+    "code": "WP3158P",
+    "finish": null,
+    "swatch": {
+      "hex": "#6E4F48",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-onyx-skin-wp3158p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3159p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Mocca Skin",
+    "code": "WP3159P",
+    "finish": null,
+    "swatch": {
+      "hex": "#82655A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-mocca-skin-wp3159p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3160p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Amber Skin",
+    "code": "WP3160P",
+    "finish": null,
+    "swatch": {
+      "hex": "#C2A081",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-amber-skin-wp3160p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3161p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dorado Skin",
+    "code": "WP3161P",
+    "finish": null,
+    "swatch": {
+      "hex": "#EEC79F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-dorado-skin-wp3161p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3162p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Quartz Skin",
+    "code": "WP3162P",
+    "finish": null,
+    "swatch": {
+      "hex": "#F0D0B2",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-quartz-skin-wp3162p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3163p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Disgusting Slime",
+    "code": "WP3163P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#AFD13C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-disgusting-slime-wp3163p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3164p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dry Blood",
+    "code": "WP3164P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#21000B",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-dry-blood-wp3164p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3165p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "True Blood",
+    "code": "WP3165P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#960727",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-true-blood-wp3165p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3166p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dark Rust",
+    "code": "WP3166P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#230D0F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-dark-rust-wp3166p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3167p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Fresh Rust",
+    "code": "WP3167P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#C55529",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-fresh-rust-wp3167p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3168p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Verdigris",
+    "code": "WP3168P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#63C3A3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-verdigris-wp3168p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3169p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Oil Stains",
+    "code": "WP3169P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#151B1F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-oil-stains-wp3169p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3170p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Oozing Vomit",
+    "code": "WP3170P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#9C7D25",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-oozing-vomit-wp3170p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3176p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Plasma Coil Glow",
+    "code": "WP3176P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#27C3F3",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-plasma-coil-glow-wp3176p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3177p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Data System Glow",
+    "code": "WP3177P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#82C661",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-data-system-glow-wp3177p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3178p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Lens Flare Glow",
+    "code": "WP3178P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#FFF346",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-lens-flare-glow-wp3178p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3179p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Radiation Glow",
+    "code": "WP3179P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#F9AB66",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-radiation-glow-wp3179p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3180p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Power Node Glow",
+    "code": "WP3180P",
+    "finish": "effects",
+    "swatch": {
+      "hex": "#FF65AD",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-effects-power-node-glow-wp3180p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3181p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Rough Iron",
+    "code": "WP3181P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#322B22",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-rough-iron-wp3181p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3182p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Red Copper",
+    "code": "WP3182P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#754447",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-red-copper-wp3182p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3183p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Weapon Bronze",
+    "code": "WP3183P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#B26816",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-weapon-bronze-wp3183p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3184p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "True Copper",
+    "code": "WP3184P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#956144",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-true-copper-wp3184p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3185p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Evil Chrome",
+    "code": "WP3185P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#845644",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-evil-chrome-wp3185p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3186p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "True Brass",
+    "code": "WP3186P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#8E857A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-true-brass-wp3186p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3187p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Tainted Gold",
+    "code": "WP3187P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#666244",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-tainted-gold-wp3187p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3188p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Greedy Gold",
+    "code": "WP3188P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#B67E28",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-greedy-gold-wp3188p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3189p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Bright Gold",
+    "code": "WP3189P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#B89422",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-bright-gold-wp3189p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3190p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Mithril",
+    "code": "WP3190P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#B3B4B8",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-mithril-wp3190p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3191p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Shining Silver",
+    "code": "WP3191P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#97999D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-shining-silver-wp3191p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3192p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Plate Mail Metal",
+    "code": "WP3192P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#6E7074",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-plate-mail-metal-wp3192p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3193p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Gun Metal",
+    "code": "WP3193P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#595B5F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-gun-metal-wp3193p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3194p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Cobalt Metal",
+    "code": "WP3194P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#344B4F",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-cobalt-metal-wp3194p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3195p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Death Metal",
+    "code": "WP3195P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#2C2C2D",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-death-metal-wp3195p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3196p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dark Emerald",
+    "code": "WP3196P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#3F532A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-dark-emerald-wp3196p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3197p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Glittering Green",
+    "code": "WP3197P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#2C7C4A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-glittering-green-wp3197p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3198p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Gemstone Red",
+    "code": "WP3198P",
+    "finish": "metallic",
+    "swatch": {
+      "hex": "#8A2026",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-metallic-gemstone-red-wp3198p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3199p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dark Tone",
+    "code": "WP3199P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#2F2E2E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-dark-tone-wp3199p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3200p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Strong Tone",
+    "code": "WP3200P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#423021",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-strong-tone-wp3200p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3201p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Soft Tone",
+    "code": "WP3201P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#79593C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-soft-tone-wp3201p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3202p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Light Tone",
+    "code": "WP3202P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#B57617",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-light-tone-wp3202p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3203p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Sepia Tone",
+    "code": "WP3203P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#A65E1E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-sepia-tone-wp3203p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3204p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Rust Tone",
+    "code": "WP3204P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#67401C",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-rust-tone-wp3204p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3205p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dark Red Tone",
+    "code": "WP3205P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#48212A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-dark-red-tone-wp3205p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3206p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Red Tone",
+    "code": "WP3206P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#7B2C38",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-red-tone-wp3206p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3207p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Orange Tone",
+    "code": "WP3207P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#A04818",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-orange-tone-wp3207p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3208p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Green Tone",
+    "code": "WP3208P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#305135",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-green-tone-wp3208p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3209p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Military Shade",
+    "code": "WP3209P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#434921",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-military-shade-wp3209p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3210p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Blue Tone",
+    "code": "WP3210P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#244E75",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-blue-tone-wp3210p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3211p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dark Blue Tone",
+    "code": "WP3211P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#243247",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-dark-blue-tone-wp3211p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3212p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Purple Tone",
+    "code": "WP3212P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#4C3860",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-purple-tone-wp3212p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3213p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Magenta Tone",
+    "code": "WP3213P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#9E015E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-magenta-tone-wp3213p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3214p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Strong Skin Shade",
+    "code": "WP3214P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#4B2D2A",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-strong-skin-shade-wp3214p",
+    "verifiedAt": "2026-10-07"
+  },
+  {
+    "id": "the-army-painter-wp3215p",
+    "brand": "The Army Painter",
+    "range": "Warpaints Fanatic",
+    "name": "Dark Skin Shade",
+    "code": "WP3215P",
+    "finish": "wash",
+    "swatch": {
+      "hex": "#4C3B3E",
+      "kind": "sampled-manufacturer-chart",
+      "sourceUrl": "https://cdn.shopify.com/s/files/1/0781/9850/5747/files/A3_All_Warpaints_Fanatic_Poster.pdf?v=1713535843",
+      "note": "Median RGB from a label-free 7x7 patch in the official PDF rendered at 2x with PDFium. Illustrative chart colour, not a calibrated paint measurement. A flat sample cannot describe sheen, transparency, texture or the chart's gradient."
+    },
+    "sourceUrl": "https://thearmypainter.com/products/warpaints-fanatic-warpaints-fanatic-wash-dark-skin-shade-wp3215p",
+    "verifiedAt": "2026-10-07"
+  }
+]

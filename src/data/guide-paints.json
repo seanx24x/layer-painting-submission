@@ -1,0 +1,983 @@
+{
+  "macragge-blue": {
+    "catalogueId": "citadel-base-macragge-blue",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Macragge Blue",
+    "hex": "#1F3C7C",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "calgar-blue": {
+    "catalogueId": "citadel-layer-calgar-blue",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Calgar Blue",
+    "hex": "#31487C",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "blue-horror": {
+    "catalogueId": "citadel-layer-blue-horror",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Blue Horror",
+    "hex": "#A5BAD2",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "abaddon-black": {
+    "catalogueId": "citadel-base-abaddon-black",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Abaddon Black",
+    "hex": "#000000",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "nuln-oil": {
+    "catalogueId": "citadel-shade-nuln-oil",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Nuln Oil",
+    "hex": "#8C7E7C",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "altdorf-guard-blue": {
+    "catalogueId": "citadel-layer-altdorf-guard-blue",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Altdorf Guard Blue",
+    "hex": "#3150AA",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "fenrisian-grey": {
+    "catalogueId": "citadel-layer-fenrisian-grey",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Fenrisian Grey",
+    "hex": "#7199B9",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "warpstone-glow": {
+    "catalogueId": "citadel-layer-warpstone-glow",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Warpstone Glow",
+    "hex": "#287127",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "dark-angels-green": {
+    "catalogueId": "citadel-contrast-dark-angels-green",
+    "brand": "Warhammer Colour",
+    "range": "Contrast",
+    "name": "Dark Angels Green",
+    "hex": "#004E42",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=22",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "moot-green": {
+    "catalogueId": "citadel-layer-moot-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Moot Green",
+    "hex": "#4EB634",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "caliban-green": {
+    "catalogueId": "citadel-base-caliban-green",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Caliban Green",
+    "hex": "#0C351B",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "mephiston-red": {
+    "catalogueId": "citadel-base-mephiston-red",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Mephiston Red",
+    "hex": "#991419",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "carroburg-crimson": {
+    "catalogueId": "citadel-shade-carroburg-crimson",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Carroburg Crimson",
+    "hex": "#CC78A9",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "evil-sunz-scarlet": {
+    "catalogueId": "citadel-layer-evil-sunz-scarlet",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Evil Sunz Scarlet",
+    "hex": "#C3191F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "rakarth-flesh": {
+    "catalogueId": "citadel-base-rakarth-flesh",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Rakarth Flesh",
+    "hex": "#9E9989",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "seraphim-sepia": {
+    "catalogueId": "citadel-shade-seraphim-sepia",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Seraphim Sepia",
+    "hex": "#E7A477",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "ushabti-bone": {
+    "catalogueId": "citadel-layer-ushabti-bone",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Ushabti Bone",
+    "hex": "#AEA167",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "leadbelcher": {
+    "catalogueId": "citadel-base-leadbelcher",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Leadbelcher",
+    "hex": "#989A9A",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "ironbreaker": {
+    "catalogueId": "citadel-layer-ironbreaker",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Ironbreaker",
+    "hex": "#B8BABA",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "eshin-grey": {
+    "catalogueId": "citadel-layer-eshin-grey",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Eshin Grey",
+    "hex": "#454648",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "stirland-mud": {
+    "catalogueId": "citadel-technical-stirland-mud",
+    "brand": "Warhammer Colour",
+    "range": "Technical",
+    "name": "Stirland Mud",
+    "hex": "#402406",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=22",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "wild-rider-red": {
+    "catalogueId": "citadel-layer-wild-rider-red",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Wild Rider Red",
+    "hex": "#EA2626",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "retributor-armour": {
+    "catalogueId": "citadel-base-retributor-armour",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Retributor Armour",
+    "hex": "#E4C389",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "reikland-fleshshade": {
+    "catalogueId": "citadel-shade-reikland-fleshshade",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Reikland Fleshshade",
+    "hex": "#D87E63",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "liberator-gold": {
+    "catalogueId": "citadel-layer-liberator-gold",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Liberator Gold",
+    "hex": "#E1CCB5",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "corax-white": {
+    "catalogueId": "citadel-base-corax-white",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Corax White",
+    "hex": "#E0E0E0",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "soulblight-grey": {
+    "catalogueId": "citadel-shade-soulblight-grey",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Soulblight Grey",
+    "hex": "#D1CBCD",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "ulthuan-grey": {
+    "catalogueId": "citadel-layer-ulthuan-grey",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Ulthuan Grey",
+    "hex": "#C9E3D5",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "white-scar": {
+    "catalogueId": "citadel-layer-white-scar",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "White Scar",
+    "hex": "#FFFFFF",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "averland-sunset": {
+    "catalogueId": "citadel-base-averland-sunset",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Averland Sunset",
+    "hex": "#FAB215",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "yriel-yellow": {
+    "catalogueId": "citadel-layer-yriel-yellow",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Yriel Yellow",
+    "hex": "#FDD804",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "flash-gitz-yellow": {
+    "catalogueId": "citadel-layer-flash-gitz-yellow",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Flash Gitz Yellow",
+    "hex": "#FFF200",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "dorn-yellow": {
+    "catalogueId": "citadel-layer-dorn-yellow",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Dorn Yellow",
+    "hex": "#FFF540",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "the-fang": {
+    "catalogueId": "citadel-base-the-fang",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "The Fang",
+    "hex": "#415B70",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "russ-grey": {
+    "catalogueId": "citadel-layer-russ-grey",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Russ Grey",
+    "hex": "#4F7188",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "rhinox-hide": {
+    "catalogueId": "citadel-base-rhinox-hide",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Rhinox Hide",
+    "hex": "#422E32",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "agrax-earthshade": {
+    "catalogueId": "citadel-shade-agrax-earthshade",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Agrax Earthshade",
+    "hex": "#8C856F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "gorthor-brown": {
+    "catalogueId": "citadel-layer-gorthor-brown",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Gorthor Brown",
+    "hex": "#5E3C38",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "corvus-black": {
+    "catalogueId": "citadel-base-corvus-black",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Corvus Black",
+    "hex": "#000000",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "dawnstone": {
+    "catalogueId": "citadel-layer-dawnstone",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Dawnstone",
+    "hex": "#696F65",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "celestra-grey": {
+    "catalogueId": "citadel-base-celestra-grey",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Celestra Grey",
+    "hex": "#8EA7A3",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "grey-seer": {
+    "catalogueId": "citadel-base-grey-seer",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Grey Seer",
+    "hex": "#ADADAD",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "dark-reaper": {
+    "catalogueId": "citadel-layer-dark-reaper",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Dark Reaper",
+    "hex": "#374B49",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "thunderhawk-blue": {
+    "catalogueId": "citadel-layer-thunderhawk-blue",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Thunderhawk Blue",
+    "hex": "#416B6F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "stormhost-silver": {
+    "catalogueId": "citadel-layer-stormhost-silver",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Stormhost Silver",
+    "hex": "#E8E7E7",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "grey-knights-steel": {
+    "catalogueId": "citadel-base-grey-knights-steel",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Grey Knights Steel",
+    "hex": "#C6E4F1",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "drakenhof-nightshade": {
+    "catalogueId": "citadel-shade-drakenhof-nightshade",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Drakenhof Nightshade",
+    "hex": "#7D8EC5",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "kantor-blue": {
+    "catalogueId": "citadel-base-kantor-blue",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Kantor Blue",
+    "hex": "#102347",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "lothern-blue": {
+    "catalogueId": "citadel-layer-lothern-blue",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Lothern Blue",
+    "hex": "#4FA4D2",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "caledor-sky": {
+    "catalogueId": "citadel-base-caledor-sky",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Caledor Sky",
+    "hex": "#4068A2",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "castellan-green": {
+    "catalogueId": "citadel-base-castellan-green",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Castellan Green",
+    "hex": "#2E421D",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "loren-forest": {
+    "catalogueId": "citadel-layer-loren-forest",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Loren Forest",
+    "hex": "#496C22",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "straken-green": {
+    "catalogueId": "citadel-layer-straken-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Straken Green",
+    "hex": "#5A8018",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "zandri-dust": {
+    "catalogueId": "citadel-base-zandri-dust",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Zandri Dust",
+    "hex": "#988E4B",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "bugman-s-glow": {
+    "catalogueId": "citadel-base-bugman-s-glow",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Bugman's Glow",
+    "hex": "#7F413C",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "cadian-fleshtone": {
+    "catalogueId": "citadel-layer-cadian-fleshtone",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Cadian Fleshtone",
+    "hex": "#C5684A",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "death-guard-green": {
+    "catalogueId": "citadel-base-death-guard-green",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Death Guard Green",
+    "hex": "#6B7645",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "ogryn-camo": {
+    "catalogueId": "citadel-layer-ogryn-camo",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Ogryn Camo",
+    "hex": "#94AB36",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "nurgling-green": {
+    "catalogueId": "citadel-layer-nurgling-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Nurgling Green",
+    "hex": "#7C9D53",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "balthasar-gold": {
+    "catalogueId": "citadel-base-balthasar-gold",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Balthasar Gold",
+    "hex": "#BC8E6D",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "sycorax-bronze": {
+    "catalogueId": "citadel-layer-sycorax-bronze",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Sycorax Bronze",
+    "hex": "#D0B895",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "druchii-violet": {
+    "catalogueId": "citadel-shade-druchii-violet",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Druchii Violet",
+    "hex": "#A478B6",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "pallid-wych-flesh": {
+    "catalogueId": "citadel-layer-pallid-wych-flesh",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Pallid Wych Flesh",
+    "hex": "#CDCFB6",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "thousand-sons-blue": {
+    "catalogueId": "citadel-base-thousand-sons-blue",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Thousand Sons Blue",
+    "hex": "#1A506F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "ahriman-blue": {
+    "catalogueId": "citadel-layer-ahriman-blue",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Ahriman Blue",
+    "hex": "#02778E",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "baharroth-blue": {
+    "catalogueId": "citadel-layer-baharroth-blue",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Baharroth Blue",
+    "hex": "#67C7CB",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "khorne-red": {
+    "catalogueId": "citadel-base-khorne-red",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Khorne Red",
+    "hex": "#640B10",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "screamer-pink": {
+    "catalogueId": "citadel-base-screamer-pink",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Screamer Pink",
+    "hex": "#78143F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "pink-horror": {
+    "catalogueId": "citadel-layer-pink-horror",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Pink Horror",
+    "hex": "#8E1F56",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "emperor-s-children": {
+    "catalogueId": "citadel-layer-emperor-s-children",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Emperor's Children",
+    "hex": "#BA2975",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "fulgrim-pink": {
+    "catalogueId": "citadel-layer-fulgrim-pink",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Fulgrim Pink",
+    "hex": "#F69DD1",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "athonian-camoshade": {
+    "catalogueId": "citadel-shade-athonian-camoshade",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Athonian Camoshade",
+    "hex": "#9AB66F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "daemonette-hide": {
+    "catalogueId": "citadel-base-daemonette-hide",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Daemonette Hide",
+    "hex": "#655B80",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "warpfiend-grey": {
+    "catalogueId": "citadel-layer-warpfiend-grey",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Warpfiend Grey",
+    "hex": "#65626D",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "slaanesh-grey": {
+    "catalogueId": "citadel-layer-slaanesh-grey",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Slaanesh Grey",
+    "hex": "#888595",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "naggaroth-night": {
+    "catalogueId": "citadel-base-naggaroth-night",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Naggaroth Night",
+    "hex": "#372C4C",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "genestealer-purple": {
+    "catalogueId": "citadel-layer-genestealer-purple",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Genestealer Purple",
+    "hex": "#7252AE",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "incubi-darkness": {
+    "catalogueId": "citadel-base-incubi-darkness",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Incubi Darkness",
+    "hex": "#224349",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "kabalite-green": {
+    "catalogueId": "citadel-layer-kabalite-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Kabalite Green",
+    "hex": "#1D8A60",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "sybarite-green": {
+    "catalogueId": "citadel-layer-sybarite-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Sybarite Green",
+    "hex": "#40A962",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "wraithbone": {
+    "catalogueId": "citadel-base-wraithbone",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Wraithbone",
+    "hex": "#DFD4AB",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "xereus-purple": {
+    "catalogueId": "citadel-layer-xereus-purple",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Xereus Purple",
+    "hex": "#3E1F58",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "mechanicus-standard-grey": {
+    "catalogueId": "citadel-base-mechanicus-standard-grey",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Mechanicus Standard Grey",
+    "hex": "#394447",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "administratum-grey": {
+    "catalogueId": "citadel-layer-administratum-grey",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Administratum Grey",
+    "hex": "#8F978E",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "coelia-greenshade": {
+    "catalogueId": "citadel-shade-coelia-greenshade",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Coelia Greenshade",
+    "hex": "#80ADA3",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "gauss-blaster-green": {
+    "catalogueId": "citadel-layer-gauss-blaster-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Gauss Blaster Green",
+    "hex": "#83CAA1",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "runelord-brass": {
+    "catalogueId": "citadel-base-runelord-brass",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Runelord Brass",
+    "hex": "#C8BAAC",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "canoptek-alloy": {
+    "catalogueId": "citadel-layer-canoptek-alloy",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Canoptek Alloy",
+    "hex": "#DBCCC9",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "tesseract-glow": {
+    "catalogueId": "citadel-technical-tesseract-glow",
+    "brand": "Warhammer Colour",
+    "range": "Technical",
+    "name": "Tesseract Glow",
+    "hex": "#47BB3A",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=22",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "waaagh-flesh": {
+    "catalogueId": "citadel-base-waaagh-flesh",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Waaagh! Flesh",
+    "hex": "#1A4438",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "biel-tan-green": {
+    "catalogueId": "citadel-shade-biel-tan-green",
+    "brand": "Warhammer Colour",
+    "range": "Shade",
+    "name": "Biel-Tan Green",
+    "hex": "#7EC690",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "warboss-green": {
+    "catalogueId": "citadel-layer-warboss-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Warboss Green",
+    "hex": "#3E8058",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "skarsnik-green": {
+    "catalogueId": "citadel-layer-skarsnik-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Skarsnik Green",
+    "hex": "#589367",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "black-legion": {
+    "catalogueId": "citadel-contrast-black-legion",
+    "brand": "Warhammer Colour",
+    "range": "Contrast",
+    "name": "Black Legion",
+    "hex": "#3B3839",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=22",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "elysian-green": {
+    "catalogueId": "citadel-layer-elysian-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Elysian Green",
+    "hex": "#6C8F29",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "flesh-tearers-red": {
+    "catalogueId": "citadel-contrast-flesh-tearers-red",
+    "brand": "Warhammer Colour",
+    "range": "Contrast",
+    "name": "Flesh Tearers Red",
+    "hex": "#880F1C",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=22",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "lupercal-green": {
+    "catalogueId": "citadel-base-lupercal-green",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Lupercal Green",
+    "hex": "#00282C",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "sons-of-horus-green": {
+    "catalogueId": "citadel-layer-sons-of-horus-green",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Sons of Horus Green",
+    "hex": "#005166",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "wazdakka-red": {
+    "catalogueId": "citadel-layer-wazdakka-red",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Wazdakka Red",
+    "hex": "#891115",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "squig-orange": {
+    "catalogueId": "citadel-layer-squig-orange",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Squig Orange",
+    "hex": "#A93D3B",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "akhelian-green": {
+    "catalogueId": "citadel-contrast-akhelian-green",
+    "brand": "Warhammer Colour",
+    "range": "Contrast",
+    "name": "Akhelian Green",
+    "hex": "#12809F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=22",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "iron-warriors": {
+    "catalogueId": "citadel-base-iron-warriors",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Iron Warriors",
+    "hex": "#88807E",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "barak-nar-burgundy": {
+    "catalogueId": "citadel-base-barak-nar-burgundy",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Barak-Nar Burgundy",
+    "hex": "#401E31",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "steel-legion-drab": {
+    "catalogueId": "citadel-base-steel-legion-drab",
+    "brand": "Warhammer Colour",
+    "range": "Base",
+    "name": "Steel Legion Drab",
+    "hex": "#57492B",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "karak-stone": {
+    "catalogueId": "citadel-layer-karak-stone",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Karak Stone",
+    "hex": "#B98F4F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "auric-armour-gold": {
+    "catalogueId": "citadel-layer-auric-armour-gold",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Auric Armour Gold",
+    "hex": "#EFCE88",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "balor-brown": {
+    "catalogueId": "citadel-layer-balor-brown",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Balor Brown",
+    "hex": "#864E0F",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "screaming-skull": {
+    "catalogueId": "citadel-layer-screaming-skull",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Screaming Skull",
+    "hex": "#BDC391",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  },
+  "fire-dragon-bright": {
+    "catalogueId": "citadel-layer-fire-dragon-bright",
+    "brand": "Warhammer Colour",
+    "range": "Layer",
+    "name": "Fire Dragon Bright",
+    "hex": "#F47342",
+    "sourceUrl": "https://assets.warhammer-community.com/warhammer_christmas_gift_guide_2025-ab0gbw34xo-t3umfix5so.pdf#page=23",
+    "swatchKind": "sampled-manufacturer-chart"
+  }
+}

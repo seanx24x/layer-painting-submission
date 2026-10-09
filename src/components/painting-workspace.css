@@ -1,0 +1,137 @@
+/* Workbench: one physical instruction, one painting surface, contextual help. */
+.painting-workbench .painting-top { padding:22px 0 28px; gap:20px; align-items:center; }
+.workbench-breadcrumb { display:flex; align-items:center; gap:12px; min-width:0; min-height:44px; font-size:14px; }
+.workbench-breadcrumb > svg { flex-shrink:0; }
+.workbench-scheme { color:var(--secondary); text-transform:capitalize; }
+.workbench-steps-toggle { display:flex; align-items:center; gap:14px; flex-shrink:0; padding:8px 0 8px 12px; min-height:44px; border:0; background:transparent; font-size:13px; }
+.workbench-step-progress { display:flex; gap:4px; width:110px; }
+.workbench-step-progress i { flex:1; min-width:3px; height:3px; background:#d7dee8; border-radius:3px; }
+.workbench-step-progress i.is-complete { background:#74818f; }
+.workbench-step-progress i.is-current { background:var(--ink); }
+.workbench-chapters { z-index:45; width:min(340px,calc(100vw - 32px)); max-height:min(520px,var(--radix-popover-content-available-height)); overflow:auto; border:1px solid var(--line); background:var(--surface); border-radius:14px; padding:18px; box-shadow:0 12px 40px #20232812; }
+.workbench-chapters > p { font-size:12px; color:var(--secondary); padding:0 8px 12px; border-bottom:1px solid var(--line); margin-bottom:8px; }
+.workbench-chapters nav { display:grid; gap:4px; }
+.workbench-chapters nav button { display:flex; align-items:center; gap:12px; padding:12px 8px; width:100%; min-height:48px; background:transparent; border:0; border-radius:7px; text-align:left; font-size:14px; }
+.workbench-chapters nav button:hover { background:#f0f2f6; }
+.workbench-chapters nav button[aria-current="step"] { background:#eaf0f8; }
+.workbench-chapters .step-number { width:26px; height:26px; font-size:12px; }
+.painting-workbench .painting-layout { display:block; padding-bottom:60px; }
+.painting-workbench .workbench-lesson { display:grid; grid-template-columns:minmax(0,1fr) 300px; column-gap:40px; align-items:start; }
+.painting-workbench .workbench-lesson--summary { display:block; }
+.painting-workbench .lesson-heading { grid-column:1; margin:0 0 28px; }
+.painting-workbench .lesson-heading h1 { font-size:clamp(30px,2.4vw,38px); font-weight:500; line-height:1.22; letter-spacing:-.04em; margin:0; text-wrap:pretty; max-width:none; scroll-margin-top:24px; }
+.painting-workbench .lesson-heading h1.long-instruction { font-size:clamp(27px,2vw,32px); line-height:1.3; }
+.workbench-orientation { color:var(--secondary); font-size:15px; line-height:1.65; margin-top:14px; }
+.workbench-painting { grid-column:1; grid-row:2; min-width:0; }
+.workspace-demonstration { outline-offset:5px; scroll-margin-top:24px; }
+.workspace-example-note { color:var(--secondary); font-size:12px; line-height:1.65; margin:12px 0 0; }
+.workbench-guidance { grid-column:2; grid-row:2 / span 3; min-width:0; }
+.workbench-look-for { padding:0 0 22px; }
+.workbench-step-details + .painting-coach { border-top:0; padding-top:0; }
+.workbench-look-for h2 { color:var(--secondary); font-size:13px; font-weight:450; letter-spacing:0; margin:0 0 12px; }
+.workbench-look-for .workbench-look-heading { font-size:22px; font-weight:500; line-height:1.4; letter-spacing:-.025em; color:var(--ink); }
+.workbench-look-for .workbench-look-heading.workbench-look-heading--long { font-size:16px; font-weight:400; line-height:1.7; letter-spacing:0; }
+.workbench-look-for p + p { font-size:15px; line-height:1.75; color:var(--secondary); margin-top:14px; }
+.workbench-step-details { border-top:1px solid var(--line); border-bottom:1px solid var(--line); margin-bottom:24px; font-size:14px; }
+.workbench-step-details > summary { display:flex; align-items:center; justify-content:space-between; gap:12px; cursor:pointer; list-style:none; min-height:52px; font-size:13px; color:var(--secondary); }
+.workbench-step-details > summary::-webkit-details-marker { display:none; }
+.workbench-step-details[open] > summary > svg { transform:rotate(180deg); }
+.workbench-step-details > p { font-size:15px; line-height:1.75; padding-bottom:18px; }
+.workbench-step-details .workbench-paints { padding-bottom:20px; }
+.workbench-paints { display:grid; gap:16px; }
+.workbench-paint { display:flex; align-items:center; gap:12px; min-width:0; }
+.workbench-paint > span { height:34px; width:34px; border-radius:7px; box-shadow:inset 0 0 0 1px #20232814; flex-shrink:0; }
+.workbench-paint strong { display:block; font-size:14px; font-weight:500; line-height:1.4; }
+.workbench-paint small { display:block; font-size:12px; color:var(--secondary); margin-top:3px; }
+.workbench-physical { background:#eef0f3; padding:32px; border-radius:16px; min-height:300px; }
+.workbench-physical > .eyebrow { font-size:12px; color:var(--secondary); }
+.workbench-physical > h2 { margin:28px 0 16px; font-size:24px; font-weight:500; letter-spacing:-.03em; }
+.workbench-physical > p { font-size:17px; line-height:1.75; }
+.workbench-action-list { list-style:none; padding:0; margin:0 0 24px; display:grid; gap:12px; font-size:16px; line-height:1.65; }
+.workbench-action-list li { padding-bottom:12px; border-bottom:1px solid #d7dde4; }
+.workbench-material-actions { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:24px 28px; list-style:none; padding:0; margin:0 0 28px; }
+.workbench-material-action { display:flex; align-items:flex-start; gap:14px; min-width:0; }
+.workbench-material-swatch { width:44px; height:44px; border-radius:8px; box-shadow:inset 0 0 0 1px #20232814; flex-shrink:0; }
+.workbench-material-action > div { min-width:0; }
+.workbench-material-action strong { display:block; font-size:15px; font-weight:500; line-height:1.45; }
+.workbench-material-action p { color:var(--secondary); font-size:14px; line-height:1.65; margin:5px 0 0; }
+.workbench-material-explanation { grid-column:1 / -1; font-size:16px; line-height:1.65; }
+.workbench-physical .workbench-paints { margin-top:28px; padding-top:24px; border-top:1px solid #d7dde4; grid-template-columns:repeat(3,minmax(0,1fr)); gap:24px 18px; }
+.workbench-progression { grid-column:1; min-width:0; margin-top:28px; }
+.painting-workbench .lesson-navigation { margin:0; padding:0; display:flex; justify-content:space-between; align-items:center; gap:16px; }
+.painting-workbench .lesson-navigation > button { font-size:14px; }
+.painting-workbench .lesson-navigation > button:first-child { border:0; background:transparent; color:var(--secondary); padding-left:0; }
+.painting-workbench .lesson-navigation .workbench-next { margin-left:auto; min-width:0; white-space:normal; max-width:75%; background:var(--ink); border:1px solid var(--ink); color:var(--paper); gap:16px; text-align:left; }
+.painting-workbench .lesson-navigation .workbench-next > svg { flex-shrink:0; }
+.painting-workbench .lesson-navigation .workbench-next:hover { background:#353b45; border-color:#353b45; }
+.workbench-completion-feedback { display:flex; align-items:center; justify-content:space-between; gap:16px; background:#eaf0eb; border-radius:8px; padding:6px 16px; font-size:13px; margin-bottom:12px; }
+.workbench-completion-feedback p { display:flex; align-items:center; gap:8px; }
+.workbench-completion-feedback button { border:0; background:transparent; font-size:13px; text-decoration:underline; text-underline-offset:3px; min-height:40px; padding:0 8px; }
+.painting-workbench .practice-extras { grid-column:1; margin-top:24px; min-width:0; }
+.painting-workbench .practice-disclosure > summary { min-height:62px; font-size:14px; }
+.workbench-save-row { display:flex; align-items:center; justify-content:space-between; gap:16px; margin-top:18px; }
+.workbench-save-row .save-state { font-size:12px; }
+.note-meta { display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-top:8px; }
+.note-meta .note-count { position:static; flex-shrink:0; margin-left:auto; font-size:12px; }
+.note-save-status { margin:0; color:var(--secondary); font-size:12px; line-height:1.6; }
+.note-save-status.is-unsaved { color:#835210; }
+.note-save-status a { display:inline-block; text-decoration:underline; text-underline-offset:3px; }
+@media(min-width:1500px) {
+  .painting-workbench .workbench-lesson { grid-template-columns:minmax(0,1fr) 350px; column-gap:60px; }
+}
+@media(max-width:1050px) {
+  .workbench-physical .workbench-paints { grid-template-columns:repeat(2,minmax(0,1fr)); }
+  .painting-workbench .workbench-lesson { grid-template-columns:minmax(0,1fr) 280px; column-gap:28px; }
+}
+@media(max-width:800px) {
+  .painting-workbench .workbench-lesson { display:flex; flex-direction:column; gap:0; }
+  .painting-workbench .workbench-lesson > * { width:100%; }
+  .painting-workbench .lesson-heading h1 { font-size:29px; line-height:1.26; }
+  .painting-workbench .lesson-heading h1.long-instruction { font-size:27px; }
+  .workbench-guidance { margin-top:28px; display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:0 28px; }
+  .workbench-guidance .painting-coach { grid-column:2; grid-row:1 / span 2; }
+  .workbench-guidance .workbench-step-details { grid-column:1; }
+  .workbench-look-for .workbench-look-heading { font-size:21px; }
+  .workbench-step-progress { width:75px; }
+  .workbench-progression { margin-top:24px; }
+}
+@media(max-width:560px) {
+  .painting-workbench .painting-top { padding:15px 0 22px; gap:8px; flex-direction:row; align-items:center; flex-wrap:wrap; }
+  .workbench-breadcrumb { flex-wrap:wrap; gap:6px 9px; font-size:13px; }
+  .workbench-steps-toggle { padding:0; gap:6px; font-size:12px; }
+  .workbench-step-progress { display:none; }
+  .painting-workbench .lesson-heading { margin-bottom:24px; }
+  .painting-workbench .lesson-heading h1 { font-size:28px; }
+  .painting-workbench .lesson-heading h1.long-instruction { font-size:25px; }
+  .workbench-orientation { font-size:14px; line-height:1.65; }
+  .workbench-guidance { display:block; }
+  .workbench-look-for .workbench-look-heading { font-size:21px; }
+  .workbench-look-for { padding-bottom:20px; }
+  .workbench-physical { padding:24px; min-height:250px; }
+  .workbench-physical > h2 { font-size:23px; margin-top:22px; }
+  .workbench-physical > p { font-size:16px; }
+  .workbench-material-actions { grid-template-columns:1fr; gap:22px; }
+  .workbench-physical .workbench-paints { grid-template-columns:1fr; }
+  .painting-workbench .lesson-navigation > button { font-size:13px; }
+  .painting-workbench .lesson-navigation > button:first-child { flex-shrink:0; padding-right:0; }
+  .painting-workbench .lesson-navigation .workbench-next { gap:10px; padding:12px 14px; max-width:70%; }
+  .workbench-save-row { gap:12px; align-items:center; }
+  .workbench-save-row .save-state { font-size:12px; }
+}
+@media(prefers-reduced-motion:reduce) { .workspace-demonstration * { scroll-behavior:auto; } }
+
+.workbench-loading { padding: 88px 0 60px; }
+.loading-heading { height: 70px; width: min(680px, 90%); background: #e8ecf1; border-radius: 8px; margin-bottom: 28px; }
+.loading-stage { width: 70%; height: 430px; border-radius: 14px; background: #eef0f3; }
+@media(max-width:700px) {
+  .painting-workbench { padding-bottom: calc(var(--workbench-dock-height, 140px) + 24px); }
+  .painting-workbench :is(textarea, summary, button, h1) { scroll-margin-bottom: calc(var(--workbench-dock-height, 140px) + 24px); }
+  .painting-workbench .workbench-progression { position: fixed; inset: auto 0 0; z-index: 30; width: 100%; margin: 0; padding: 12px 20px calc(12px + env(safe-area-inset-bottom)); border-top: 1px solid var(--line); background: var(--paper); box-shadow: 0 -6px 24px #20232808; }
+  .workbench-progression[data-editing] { visibility: hidden; pointer-events: none; }
+  .painting-workbench .lesson-navigation { gap: 14px; }
+  .painting-workbench .lesson-navigation .workbench-next { max-width: 72%; min-height: 48px; }
+  .workbench-completion-feedback { font-size: 12px; padding: 4px 10px; gap: 8px; }
+  .workbench-completion-feedback p { line-height: 1.4; }
+  .workbench-completion-feedback p svg { flex-shrink: 0; }
+  .loading-stage { width: 100%; height: 360px; }
+}

@@ -1,0 +1,79 @@
+.guide-pauldron { overflow: hidden; }
+.guide-pauldron-layout { display: grid; grid-template-columns: minmax(0, 1fr) 254px; gap: 30px; padding: 0 24px 24px; }
+.guide-pauldron-stage { min-width: 0; background: #eef0f3; border-radius: 10px; overflow: hidden; }
+.guide-pauldron-viewport { height: clamp(360px, 35vw, 490px); position: relative; }
+.guide-pauldron-canvas { position: absolute; inset: 0; }
+.guide-pauldron-canvas:focus-visible { outline: 2px solid var(--action); outline-offset: -4px; border-radius: 10px 10px 0 0; }
+.guide-pauldron-stage-label { position: absolute; z-index: 1; left: 20px; right: 20px; top: 18px; display: flex; justify-content: space-between; gap: 12px; pointer-events: none; color: var(--secondary); font-size: 11px; }
+.guide-pauldron-stage-label > span { display: flex; align-items: center; gap: 12px; }
+.guide-pauldron-stage-label button { pointer-events: auto; background: transparent; border: 0; padding: 0; color: var(--ink); text-decoration: underline; text-underline-offset: 3px; min-height: 24px; }
+.guide-pauldron-controls { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 0 18px; padding-top: 12px; border-top: 1px solid #d9dee5; }
+.guide-pauldron-views, .guide-pauldron-camera { display: flex; align-items: center; gap: 2px; }
+.guide-pauldron button { font: inherit; cursor: pointer; }
+.guide-pauldron-views button, .guide-pauldron-camera button, .guide-pauldron-finish button { border: 0; background: transparent; border-radius: 6px; color: var(--secondary); min-height: 38px; font-size: 12px; padding: 8px 11px; }
+.guide-pauldron button:disabled { cursor: default; opacity: .45; }
+.guide-pauldron-views button[aria-pressed=true], .guide-pauldron-finish button[aria-pressed=true] { background: #e0e5eb; color: var(--ink); }
+.guide-pauldron-camera button { display: grid; place-items: center; width: 36px; padding: 0; }
+.guide-pauldron-camera button:last-child { margin-left: 4px; }
+.guide-pauldron-help { font-size: 11px; color: var(--secondary); margin: 9px 20px 17px; line-height: 1.6; }
+.guide-pauldron-help span { margin-left: 8px; }
+.guide-pauldron-notes { padding: 0 0 2px; min-width: 0; }
+.guide-pauldron-finish { display: flex; gap: 3px; margin-bottom: 24px; }
+.guide-pauldron-finish button { background: #f3f5f7; padding: 8px 14px; }
+.guide-pauldron-notes h3 { font-size: 17px; font-weight: 500; letter-spacing: -.025em; margin: 0 0 17px; }
+.guide-pauldron-paints { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: 18px; }
+.guide-pauldron-paints li { display: flex; gap: 12px; align-items: center; min-width: 0; }
+.guide-pauldron-swatch { width: 34px; height: 38px; flex-shrink: 0; border-radius: 5px; box-shadow: inset 0 0 0 1px #20232809; }
+.guide-pauldron-paints small { display: block; font-size: 11px; line-height: 1.5; color: var(--secondary); margin-bottom: 2px; }
+.guide-pauldron-paints strong { display: block; font-size: 13px; font-weight: 450; line-height: 1.5; }
+.guide-pauldron-caption { color: var(--secondary); font-size: 12px; line-height: 1.75; margin: 22px 0; }
+.guide-pauldron-material-link { display: flex; align-items: center; gap: 5px; width: fit-content; color: var(--ink); margin-top: 10px; text-underline-offset: 3px; }
+.guide-pauldron-inspect { border-top: 1px solid var(--line); padding-top: 3px; }
+.guide-pauldron-inspect summary { list-style: none; cursor: pointer; font-size: 12px; display: flex; align-items: center; justify-content: space-between; min-height: 44px; gap: 12px; }
+.guide-pauldron-inspect summary::-webkit-details-marker { display: none; }
+.guide-pauldron-inspect[open] summary svg { transform: rotate(180deg); }
+.guide-pauldron-label { display: block; font-size: 11px; color: var(--secondary); margin: 13px 0 7px; }
+.guide-pauldron-inspect select { font: inherit; font-size: 12px; min-height: 40px; background: #f8f9fb; border: 1px solid var(--line); border-radius: 6px; width: 100%; padding: 8px; color: var(--ink); }
+.guide-pauldron-checkbox { display: flex; gap: 9px; align-items: center; margin-top: 16px; font-size: 12px; line-height: 1.5; cursor: pointer; }
+.guide-pauldron-checkbox input { accent-color: var(--ink); margin: 0; width: 15px; height: 15px; }
+.guide-pauldron-colour-note { margin-top: 17px; font-size: 11px; line-height: 1.6; color: var(--secondary); }
+.guide-pauldron-context { margin-top: 18px; font-size: 11px; line-height: 1.75; color: var(--secondary); }
+.guide-pauldron-status { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 12px; color: var(--secondary); font-size: 13px; text-align: center; padding: 36px; pointer-events: none; }
+.guide-pauldron-status button { pointer-events: auto; min-height: 44px; }
+.guide-pauldron-status span:not(.guide-pauldron-loading-shape) { font-size: 12px; }
+.guide-pauldron-loading-shape { width: 100px; height: 110px; border-radius: 55px 55px 20px 20px; background: linear-gradient(135deg, #e1e5eb, #d8dee6); margin-bottom: 4px; }
+@media (hover: hover) { .guide-pauldron-views button:not(:disabled):hover, .guide-pauldron-camera button:not(:disabled):hover { color: var(--ink); background: #e3e8ef; } }
+@media (max-width: 1100px) { .guide-pauldron-layout { grid-template-columns: minmax(0,1fr) 210px; gap: 24px; }.guide-pauldron-controls { flex-wrap: wrap; }.guide-pauldron-help span { display: none; } }
+@media (max-width: 760px) {
+  .guide-pauldron-layout { grid-template-columns: minmax(0,1fr); padding: 0 16px 20px; gap: 24px; }
+  .guide-pauldron-viewport { height: 370px; }
+  .guide-pauldron-notes { display: grid; grid-template-columns: minmax(0,1fr) auto; align-items: start; column-gap: 16px; }
+  .guide-pauldron-finish { grid-column: 2; grid-row: 1; margin: 0; }
+  .guide-pauldron-notes h3 { grid-column: 1; grid-row: 1; margin: 8px 0 23px; }
+  .guide-pauldron-paints { display: grid; grid-column: 1/-1; gap: 14px; }
+  .guide-pauldron-paints li { align-items: flex-start; flex-direction: column; gap: 8px; }
+  .guide-pauldron-swatch { width: 100%; height: 34px; }
+  .guide-pauldron-caption, .guide-pauldron-inspect, .guide-pauldron-colour-note { grid-column: 1/-1; }
+  .guide-pauldron-caption { margin: 19px 0; }
+  .guide-pauldron-colour-note { margin-top: 12px; }
+}
+@media (max-width: 430px) {
+  .guide-pauldron-layout { padding: 0 10px 16px; gap: 21px; }
+  .guide-pauldron-viewport { height: 320px; }
+  .guide-pauldron-stage-label { left: 14px; right: 14px; font-size: 10px; }
+  .guide-pauldron-controls { margin: 0 10px; padding-top: 8px; gap: 3px; }
+  .guide-pauldron-views { justify-content: space-between; width: 100%; }
+  .guide-pauldron-views button { padding: 8px 7px; min-height: 44px; font-size: 11px; }
+  .guide-pauldron-camera { margin-left: auto; }
+  .guide-pauldron-camera button { width: 44px; min-height: 44px; }
+  .guide-pauldron-help { margin: 0 14px 13px; font-size: 10px; }
+  .guide-pauldron-notes { padding: 0 5px; }
+  .guide-pauldron-paints strong { font-size: 12px; }
+  .guide-pauldron-finish button { font-size: 11px; padding: 8px 12px; }
+}
+@media (max-width: 360px) {
+  .guide-pauldron-views { display: grid; grid-template-columns: repeat(2, minmax(0,1fr)); }
+  .guide-pauldron-views button { white-space: nowrap; }
+  .guide-pauldron-notes { column-gap: 8px; }
+  .guide-pauldron-notes h3 { font-size: 15px; white-space: nowrap; }
+}

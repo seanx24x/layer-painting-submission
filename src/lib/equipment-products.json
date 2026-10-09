@@ -1,0 +1,1292 @@
+[
+  {
+    "id": "redgrass-everlasting-wet-palettes-v2",
+    "brand": "Redgrass",
+    "name": "Everlasting Wet Palettes v2",
+    "code": null,
+    "typeIds": [
+      "wet-palette"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-painter-lite-wet-palette",
+    "brand": "Redgrass",
+    "name": "Painter Lite Wet Palette",
+    "code": null,
+    "typeIds": [
+      "wet-palette"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-rgg-glass-palette",
+    "brand": "Redgrass",
+    "name": "RGG Glass Palette",
+    "code": null,
+    "typeIds": [
+      "dry-palette"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-rgg-precision-nippers",
+    "brand": "Redgrass",
+    "name": "RGG Precision Nippers",
+    "code": null,
+    "typeIds": [
+      "clippers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-redgrass-sprue-cutters",
+    "brand": "Redgrass",
+    "name": "Redgrass Sprue Cutters",
+    "code": null,
+    "typeIds": [
+      "clippers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-rgg360-painting-handle-v2",
+    "brand": "Redgrass",
+    "name": "RGG360 Painting Handle v2",
+    "code": null,
+    "typeIds": [
+      "handle"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-redgrass-r9-desk-lamp",
+    "brand": "Redgrass",
+    "name": "Redgrass R9 Desk Lamp",
+    "code": null,
+    "typeIds": [
+      "light"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-redgrass-r9-solo-desk-lamp",
+    "brand": "Redgrass",
+    "name": "Redgrass R9 Solo Desk Lamp",
+    "code": null,
+    "typeIds": [
+      "light"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-15x-reusable-membranes",
+    "brand": "Redgrass",
+    "name": "15x Reusable Membranes",
+    "code": null,
+    "typeIds": [
+      "refills"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-50-x-hydration-paper-sheets",
+    "brand": "Redgrass",
+    "name": "50 x Hydration Paper Sheets",
+    "code": null,
+    "typeIds": [
+      "refills"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.redgrasscreative.com/shop/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "redgrass-redgrass-brushes",
+    "brand": "Redgrass",
+    "name": "Redgrass Brushes",
+    "code": null,
+    "typeIds": [
+      "round-brush",
+      "detail-brush"
+    ],
+    "variants": [
+      {
+        "label": "Size 2"
+      },
+      {
+        "label": "Size 2/0"
+      }
+    ],
+    "specifications": {
+      "Bristle": "Natural sable",
+      "Handle": "Lacquered wood",
+      "Ferrule": "Nickel-plated brass"
+    },
+    "sourceUrl": "https://www.redgrasscreative.com/us/product/brushes/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-wet-palette",
+    "brand": "The Army Painter",
+    "name": "Wet Palette",
+    "code": null,
+    "typeIds": [
+      "wet-palette"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-miniature-and-model-drill",
+    "brand": "The Army Painter",
+    "name": "Miniature and Model Drill",
+    "code": null,
+    "typeIds": [
+      "hand-drill"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-drill-bits",
+    "brand": "The Army Painter",
+    "name": "Drill Bits",
+    "code": null,
+    "typeIds": [
+      "bits"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-plastic-frame-cutter",
+    "brand": "The Army Painter",
+    "name": "Plastic Frame Cutter",
+    "code": null,
+    "typeIds": [
+      "clippers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-precision-side-cutter",
+    "brand": "The Army Painter",
+    "name": "Precision Side Cutter",
+    "code": null,
+    "typeIds": [
+      "clippers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-plastic-glue",
+    "brand": "The Army Painter",
+    "name": "Plastic Glue",
+    "code": null,
+    "typeIds": [
+      "plastic-cement"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-super-glue",
+    "brand": "The Army Painter",
+    "name": "Super Glue",
+    "code": null,
+    "typeIds": [
+      "superglue"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-battlefield-basing-glue",
+    "brand": "The Army Painter",
+    "name": "Battlefield Basing Glue",
+    "code": null,
+    "typeIds": [
+      "pva"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-green-stuff",
+    "brand": "The Army Painter",
+    "name": "Green Stuff",
+    "code": null,
+    "typeIds": [
+      "putty"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-sculpting-tools",
+    "brand": "The Army Painter",
+    "name": "Sculpting Tools",
+    "code": null,
+    "typeIds": [
+      "sculpting"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-self-healing-cutting-mat",
+    "brand": "The Army Painter",
+    "name": "Self Healing Cutting Mat",
+    "code": null,
+    "typeIds": [
+      "cutting-mat"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-miniature-and-model-magnets",
+    "brand": "The Army Painter",
+    "name": "Miniature and Model Magnets",
+    "code": null,
+    "typeIds": [
+      "magnets"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-miniature-and-model-files",
+    "brand": "The Army Painter",
+    "name": "Miniature and Model Files",
+    "code": null,
+    "typeIds": [
+      "files"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tool-sets",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-tweezers-set",
+    "brand": "The Army Painter",
+    "name": "Tweezers Set",
+    "code": null,
+    "typeIds": [
+      "tweezers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tool-sets",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-paint-station",
+    "brand": "The Army Painter",
+    "name": "Paint Station",
+    "code": null,
+    "typeIds": [
+      "organiser"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tool-sets",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-wet-palette-hydro-pack",
+    "brand": "The Army Painter",
+    "name": "Wet Palette Hydro Pack",
+    "code": null,
+    "typeIds": [
+      "refills"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tool-sets",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-hobby-knife",
+    "brand": "The Army Painter",
+    "name": "Hobby Knife",
+    "code": "TL5034P",
+    "typeIds": [
+      "knife"
+    ],
+    "variants": [],
+    "specifications": {
+      "Blade": "#11"
+    },
+    "sourceUrl": "https://us.thearmypainter.com/products/hobby-knife",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-speed-palette",
+    "brand": "The Army Painter",
+    "name": "Speed Palette",
+    "code": "TL5064P",
+    "typeIds": [
+      "dry-palette"
+    ],
+    "variants": [],
+    "specifications": {
+      "Material": "Silicone",
+      "Wells": "10"
+    },
+    "sourceUrl": "https://thearmypainter.com/products/tools-speed-palette-tl5064p",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "the-army-painter-masterclass-drybrush-set",
+    "brand": "The Army Painter",
+    "name": "Masterclass Drybrush Set",
+    "code": null,
+    "typeIds": [
+      "drybrush"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://thearmypainter.com/collections/tools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "artis-opus-series-s",
+    "brand": "Artis Opus",
+    "name": "Series S",
+    "code": null,
+    "typeIds": [
+      "round-brush",
+      "detail-brush"
+    ],
+    "variants": [
+      {
+        "label": "000"
+      },
+      {
+        "label": "00"
+      },
+      {
+        "label": "0"
+      },
+      {
+        "label": "1"
+      },
+      {
+        "label": "2"
+      }
+    ],
+    "specifications": {},
+    "sourceUrl": "https://store.artis-opus.com/en-us/products/series-s-brush-set",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "artis-opus-series-m",
+    "brand": "Artis Opus",
+    "name": "Series M",
+    "code": null,
+    "typeIds": [
+      "detail-brush"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.artis-opus.com/products",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "artis-opus-series-d",
+    "brand": "Artis Opus",
+    "name": "Series D",
+    "code": null,
+    "typeIds": [
+      "drybrush"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://store.artis-opus.com/en-us/collections/series-d-drybrushing",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "artis-opus-texture-palette",
+    "brand": "Artis Opus",
+    "name": "Texture Palette",
+    "code": null,
+    "typeIds": [
+      "texture-palette"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://store.artis-opus.com/en-us/collections/series-d-drybrushing",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "monument-hobbies-pro-sable",
+    "brand": "Monument Hobbies",
+    "name": "PRO Sable",
+    "code": null,
+    "typeIds": [
+      "round-brush",
+      "detail-brush"
+    ],
+    "variants": [
+      {
+        "label": "#0"
+      }
+    ],
+    "specifications": {
+      "Manufacturer size": "#0",
+      "Bristle": "Sable"
+    },
+    "sourceUrl": "https://monumenthobbies.com/products/pro-sable-0",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "winsor-newton-series-7-miniature",
+    "brand": "Winsor & Newton",
+    "name": "Series 7 Miniature",
+    "code": null,
+    "typeIds": [
+      "detail-brush"
+    ],
+    "variants": [],
+    "specifications": {
+      "Bristle": "Kolinsky sable",
+      "Shape": "Short round"
+    },
+    "sourceUrl": "https://www.winsornewton.com/products/series-7-kolinsky-sable-brush-series-7-kolinsky-sable-mintature-painting-brush-round",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Choosing miniature brushes",
+        "url": "https://www.winsornewton.com/blogs/guides/best-miniature-watercolour-brush"
+      }
+    ]
+  },
+  {
+    "id": "rosemary-co-miniature-set",
+    "brand": "Rosemary & Co.",
+    "name": "Miniature Set",
+    "code": null,
+    "typeIds": [
+      "round-brush",
+      "detail-brush",
+      "flat-brush"
+    ],
+    "variants": [],
+    "specifications": {
+      "Set": "7 brushes"
+    },
+    "sourceUrl": "https://www.rosemaryandco.com/brush-sets/miniature-set",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Understanding brush sizes",
+        "url": "https://blog.rosemaryandco.com/question/what-size-are-the-brushes/"
+      }
+    ]
+  },
+  {
+    "id": "rosemary-co-series-33",
+    "brand": "Rosemary & Co.",
+    "name": "Series 33",
+    "code": null,
+    "typeIds": [
+      "round-brush",
+      "detail-brush"
+    ],
+    "variants": [],
+    "specifications": {
+      "Shape": "Pointed round",
+      "Bristle": "Kolinsky sable"
+    },
+    "sourceUrl": "https://www.rosemaryandco.com/oil-brushes/pure-kolinsky-sable-oils/pure-kolinsky-pointed",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "citadel-mouldline-remover",
+    "brand": "Citadel",
+    "name": "Mouldline Remover",
+    "code": null,
+    "typeIds": [
+      "mould-remover"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.warhammer-community.com/en-gb/articles/jvqNcb6X/four-new-citadel-tools-are-about-to-make-your-warhammer-hobby-better-than-ever/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "citadel-drill",
+    "brand": "Citadel",
+    "name": "Drill",
+    "code": null,
+    "typeIds": [
+      "hand-drill"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.warhammer-community.com/en-gb/articles/jvqNcb6X/four-new-citadel-tools-are-about-to-make-your-warhammer-hobby-better-than-ever/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "citadel-super-fine-detail-cutters",
+    "brand": "Citadel",
+    "name": "Super Fine Detail Cutters",
+    "code": null,
+    "typeIds": [
+      "clippers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.warhammer-community.com/en-gb/articles/jvqNcb6X/four-new-citadel-tools-are-about-to-make-your-warhammer-hobby-better-than-ever/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "citadel-knife",
+    "brand": "Citadel",
+    "name": "Knife",
+    "code": null,
+    "typeIds": [
+      "knife"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.warhammer-community.com/en-gb/articles/jvqNcb6X/four-new-citadel-tools-are-about-to-make-your-warhammer-hobby-better-than-ever/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "vallejo-mould-line-remover",
+    "brand": "Vallejo",
+    "name": "Mould Line Remover",
+    "code": "T15004",
+    "typeIds": [
+      "mould-remover"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://acrylicosvallejo.com/categoria/modelismo/hobby-tools/page/2/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "vallejo-20-drill-bits-0-3-1-6-mm",
+    "brand": "Vallejo",
+    "name": "20 Drill Bits, 0.3\u20131.6 mm",
+    "code": "T01001",
+    "typeIds": [
+      "bits"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://acrylicosvallejo.com/categoria/modelismo/hobby-tools/page/2/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "vallejo-10-needle-files",
+    "brand": "Vallejo",
+    "name": "10 Needle Files",
+    "code": "T03001",
+    "typeIds": [
+      "files"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://acrylicosvallejo.com/categoria/modelismo/hobby-tools/page/2/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "vallejo-flexible-sanding-pads-90-19-6-mm",
+    "brand": "Vallejo",
+    "name": "Flexible Sanding Pads, 90 \u00d7 19 \u00d7 6 mm",
+    "code": "T04001",
+    "typeIds": [
+      "sanding"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://acrylicosvallejo.com/categoria/modelismo/hobby-tools/page/2/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "vallejo-11-straight-blades-5-pieces",
+    "brand": "Vallejo",
+    "name": "#11 Straight Blades, 5 pieces",
+    "code": "T06003",
+    "typeIds": [
+      "blades"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://acrylicosvallejo.com/categoria/modelismo/hobby-tools/page/2/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "ak-interactive-sanding-stick-set",
+    "brand": "AK Interactive",
+    "name": "Sanding Stick Set",
+    "code": "AK9179",
+    "typeIds": [
+      "sanding"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://ak-interactive.com/product/sanding-stick-set/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "ak-interactive-precision-straight-tweezers",
+    "brand": "AK Interactive",
+    "name": "Precision Straight Tweezers",
+    "code": "AK9331",
+    "typeIds": [
+      "tweezers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://ak-interactive.com/prod/tweezers/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "tamiya-fine-pin-vise-d",
+    "brand": "Tamiya",
+    "name": "Fine Pin Vise D",
+    "code": "74050",
+    "typeIds": [
+      "hand-drill"
+    ],
+    "variants": [],
+    "specifications": {
+      "Chuck capacity": "0.1\u20133.2 mm"
+    },
+    "sourceUrl": "https://www.tamiya.com/english/products/74050/index.html",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "tamiya-finishing-abrasives-medium-set",
+    "brand": "Tamiya",
+    "name": "Finishing Abrasives (Medium Set)",
+    "code": "87009",
+    "typeIds": [
+      "sanding"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.tamiya.com/english/products/87009/index.html",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "tamiya-extra-thin-cement-quick-setting",
+    "brand": "Tamiya",
+    "name": "Extra Thin Cement (Quick-Setting)",
+    "code": "87182",
+    "typeIds": [
+      "plastic-cement"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.tamiya.com/english/tag/taglist.html?genre_item=e_sc_basictools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "tamiya-sharp-pointed-side-cutter-for-plastic",
+    "brand": "Tamiya",
+    "name": "Sharp Pointed Side Cutter (For Plastic)",
+    "code": "74035",
+    "typeIds": [
+      "clippers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.tamiya.com/english/tag/taglist.html?genre_item=e_sc_basictools",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "godhand-ultimate-nipper",
+    "brand": "GodHand",
+    "name": "Ultimate Nipper",
+    "code": "SPN-120",
+    "typeIds": [
+      "clippers"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://shop.godhandtool.com/view/page/spn",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "x-acto-1-precision-knife",
+    "brand": "X-ACTO",
+    "name": "#1 Precision Knife",
+    "code": null,
+    "typeIds": [
+      "knife"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.xacto.com/SAP_X3601Q3_PR.html",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "bob-smith-industries-insta-cure",
+    "brand": "Bob Smith Industries",
+    "name": "Insta-Cure",
+    "code": null,
+    "typeIds": [
+      "superglue"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://bsi-inc.com/hobby/insta_cure.html",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Safety data sheet",
+        "url": "https://www.bsi-inc.com/sds_pdf/sds_insta_cure.pdf"
+      }
+    ]
+  },
+  {
+    "id": "milliput-two-part-epoxy-putty",
+    "brand": "Milliput",
+    "name": "Two-part epoxy putty",
+    "code": null,
+    "typeIds": [
+      "putty"
+    ],
+    "variants": [
+      {
+        "label": "Standard Yellow-Grey"
+      },
+      {
+        "label": "Superfine White"
+      },
+      {
+        "label": "Silver Grey"
+      },
+      {
+        "label": "Black"
+      },
+      {
+        "label": "Terracotta"
+      }
+    ],
+    "specifications": {},
+    "sourceUrl": "https://www.milliput.com/products.html",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Manufacturer instructions",
+        "url": "https://www.milliput.com/howto.html"
+      },
+      {
+        "label": "Component B safety data",
+        "url": "https://www.milliput.com/images/user/Milliput%20Component%20B%20WST%20CLP24.pdf"
+      }
+    ]
+  },
+  {
+    "id": "daylight-lumi",
+    "brand": "Daylight",
+    "name": "Lumi",
+    "code": null,
+    "typeIds": [
+      "light"
+    ],
+    "variants": [],
+    "specifications": {
+      "Colour temperature": "6000 K",
+      "Colour rendering": "95+ CRI",
+      "Illuminance": "4000 lux at 30 cm"
+    },
+    "sourceUrl": "https://daylightcompany.com/en-us/products/lumi-white",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "proxxon-micro-heat-gun-mh-550",
+    "brand": "Proxxon",
+    "name": "MICRO Heat Gun MH 550",
+    "code": "27130",
+    "typeIds": [
+      "heat"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.proxxon.com/en/micromot/27130.php",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Operating manual",
+        "url": "https://www.proxxon.com/en/pdf/27130.pdf"
+      }
+    ]
+  },
+  {
+    "id": "proxxon-precision-drill-grinder-fbs-240-e",
+    "brand": "Proxxon",
+    "name": "Precision Drill/Grinder FBS 240/E",
+    "code": "28472",
+    "typeIds": [
+      "rotary"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.proxxon.com/en/micromot/28472.php",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "harder-steenbeck-ultra-2024",
+    "brand": "Harder & Steenbeck",
+    "name": "ULTRA 2024",
+    "code": null,
+    "typeIds": [
+      "airbrush"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://harderairbrush.com/pages/ultra2024",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "iwata-eclipse-hp-cs",
+    "brand": "Iwata",
+    "name": "Eclipse HP-CS",
+    "code": "ECL4500",
+    "typeIds": [
+      "airbrush"
+    ],
+    "variants": [],
+    "specifications": {
+      "Feed": "Gravity",
+      "Cup": "7 ml"
+    },
+    "sourceUrl": "https://www.iwata-airbrush.com/iwata-eclipse-hp-cs.html",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Eclipse manual",
+        "url": "https://www.iwata-airbrush.com/mm5/graphics/00000001/ECL101-IM.pdf"
+      }
+    ]
+  },
+  {
+    "id": "iwata-deluxe-airbrush-set",
+    "brand": "Iwata",
+    "name": "Deluxe Airbrush Set",
+    "code": null,
+    "typeIds": [
+      "airbrush",
+      "compressor"
+    ],
+    "variants": [],
+    "specifications": {
+      "Airbrush": "Eclipse HP-CS",
+      "Compressor": "Smart Jet"
+    },
+    "sourceUrl": "https://www.iwata-airbrush.com/iwata-deluxe-intro-set.html",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "benchvent-bv300s-d-a3",
+    "brand": "BenchVent",
+    "name": "BV300S-D A3",
+    "code": null,
+    "typeIds": [
+      "extraction"
+    ],
+    "variants": [],
+    "specifications": {
+      "Format": "Ducted extraction"
+    },
+    "sourceUrl": "https://benchvent.com/shop/bv300s-d-a3/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "smooth-on-smooth-cast-300-series",
+    "brand": "Smooth-On",
+    "name": "Smooth-Cast 300 Series",
+    "code": null,
+    "typeIds": [
+      "casting-resin"
+    ],
+    "variants": [],
+    "specifications": {
+      "Material": "Urethane casting resin"
+    },
+    "sourceUrl": "https://www.smooth-on.com/product-line/smooth-cast/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "smooth-on-oomoo-30",
+    "brand": "Smooth-On",
+    "name": "OOMOO 30",
+    "code": null,
+    "typeIds": [
+      "silicone"
+    ],
+    "variants": [],
+    "specifications": {
+      "Material": "Silicone mould rubber"
+    },
+    "sourceUrl": "https://www.smooth-on.com/products/oomoo-30/",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "green-stuff-world-uv-resin-30ml-water-effect",
+    "brand": "Green Stuff World",
+    "name": "UV Resin 30ml \u2013 Water Effect",
+    "code": "2020",
+    "typeIds": [
+      "uv-resin"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.greenstuffworld.com/en/ultraviolet-resin/934-uv-resin-30ml-water-effect.html",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "green-stuff-world-clear-epoxy-resin",
+    "brand": "Green Stuff World",
+    "name": "Clear epoxy resin",
+    "code": null,
+    "typeIds": [
+      "casting-resin"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.greenstuffworld.com/en/356-epoxy-resin",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "green-stuff-world-universal-work-holder-on-stand",
+    "brand": "Green Stuff World",
+    "name": "Universal Work Holder on Stand",
+    "code": "8436554363223ES",
+    "typeIds": [
+      "clamps"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.greenstuffworld.com/en/31-holders",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "green-stuff-world-pinning-brass-rods",
+    "brand": "Green Stuff World",
+    "name": "Pinning Brass Rods",
+    "code": null,
+    "typeIds": [
+      "pins"
+    ],
+    "variants": [
+      {
+        "label": "0.3 mm"
+      },
+      {
+        "label": "0.5 mm"
+      },
+      {
+        "label": "1 mm"
+      },
+      {
+        "label": "1.5 mm"
+      },
+      {
+        "label": "2 mm"
+      },
+      {
+        "label": "3 mm"
+      }
+    ],
+    "specifications": {},
+    "sourceUrl": "https://www.greenstuffworld.com/en/107-pinning-rods",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "elegoo-saturn-4-ultra-16k-with-mercury-plus-v3-0",
+    "brand": "Elegoo",
+    "name": "Saturn 4 Ultra 16K with Mercury Plus V3.0",
+    "code": null,
+    "typeIds": [
+      "printer",
+      "wash-cure"
+    ],
+    "variants": [],
+    "specifications": {
+      "Printer": "Saturn 4 Ultra 16K",
+      "Wash and cure": "Mercury Plus V3.0"
+    },
+    "sourceUrl": "https://us.elegoo.com/products/saturn-4-ultra-16k-with-mercury-plus-v3-0-bundle",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "anycubic-abs-like-resin-3-0",
+    "brand": "Anycubic",
+    "name": "ABS-Like Resin 3.0",
+    "code": null,
+    "typeIds": [
+      "printer-resin"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://store.anycubic.com/collections/main-products/products/abs-like-resin-3-0",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Resin manuals and safety data",
+        "url": "https://uk.anycubic.com/pages/anycubic-resin-user-manual-msds"
+      }
+    ]
+  },
+  {
+    "id": "siraya-tech-fast-abs-like",
+    "brand": "Siraya Tech",
+    "name": "Fast ABS-Like",
+    "code": null,
+    "typeIds": [
+      "printer-resin"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://siraya.tech/pages/fast-resin-user-guide",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Technical and safety data",
+        "url": "https://siraya.tech/pages/abs-like-fast-resin-tds-for-basic-fast"
+      }
+    ]
+  },
+  {
+    "id": "green-stuff-world-hot-air-gun-450w",
+    "brand": "Green Stuff World",
+    "name": "Hot Air Gun 450w",
+    "code": "8435646521442ES",
+    "typeIds": [
+      "heat"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.greenstuffworld.com/en/hot-air-guns/3893-hot-air-gun-450w.html",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "green-stuff-world-hobby-saw",
+    "brand": "Green Stuff World",
+    "name": "Hobby Saw",
+    "code": "8435646508856ES",
+    "typeIds": [
+      "saw"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://www.greenstuffworld.com/en/542-handsaw",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "green-stuff-world-black-nitrile-gloves",
+    "brand": "Green Stuff World",
+    "name": "Black Nitrile Gloves",
+    "code": null,
+    "typeIds": [
+      "protection"
+    ],
+    "variants": [
+      {
+        "label": "Small"
+      },
+      {
+        "label": "Medium"
+      },
+      {
+        "label": "Large"
+      },
+      {
+        "label": "Extra Large"
+      }
+    ],
+    "specifications": {},
+    "sourceUrl": "https://www.greenstuffworld.com/en/270-nitrile-gloves",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "bob-smith-industries-slow-cure-epoxy",
+    "brand": "Bob Smith Industries",
+    "name": "Slow-Cure Epoxy",
+    "code": null,
+    "typeIds": [
+      "epoxy-glue"
+    ],
+    "variants": [
+      {
+        "label": "4.5 oz"
+      },
+      {
+        "label": "9 oz"
+      },
+      {
+        "label": "13 oz"
+      }
+    ],
+    "specifications": {},
+    "sourceUrl": "https://www.bsi-inc.com/hobby/slow_cure.html",
+    "checkedAt": "2026-10-08",
+    "documents": [
+      {
+        "label": "Safety data sheet",
+        "url": "https://bsi-inc.com/sds_pdf/sds_slow_cure.pdf"
+      }
+    ]
+  },
+  {
+    "id": "daylight-halo-go-2",
+    "brand": "Daylight",
+    "name": "Halo Go 2",
+    "code": "D25400",
+    "typeIds": [
+      "magnifier",
+      "light"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://daylightcompany.com/wp-content/uploads/2025/02/D25400-Halo-Go-2-Feature-Sheet-UK.pdf",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  },
+  {
+    "id": "monument-hobbies-jens-drunken-brush-goop",
+    "brand": "Monument Hobbies",
+    "name": "Jen\u2019s Drunken Brush Goop",
+    "code": null,
+    "typeIds": [
+      "cleaner"
+    ],
+    "variants": [],
+    "specifications": {},
+    "sourceUrl": "https://monumenthobbies.com/products/pro-sable-0",
+    "checkedAt": "2026-10-08",
+    "documents": []
+  }
+]

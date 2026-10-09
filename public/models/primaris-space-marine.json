@@ -1,0 +1,122 @@
+{
+  "title": "Warhammer 40k Primaris Space Marine figure",
+  "creator": "DicamoCM",
+  "source": "https://www.nexprint.com/en/models/G6817715",
+  "license": "CC BY 4.0 (as listed by the creator on Nexprint)",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "sourceFile": "b1f0965b280739ef3f19e59a3ac47fbe.obj",
+  "sourceBytes": 84034919,
+  "sourceSha256": "69ad1de9ee77cafecbcc156dd64ac99dbea703c29c51246d1db4cfd8fbe9231f",
+  "outputFile": "primaris-space-marine.glb",
+  "outputBytes": 5188460,
+  "outputSha256": "96f7fdffac5569401ffb71f7316ffa7535766e6493fbedbdca7cd6a2c45a0426",
+  "sourceBounds": {
+    "min": [
+      -0.18961699306964874,
+      0,
+      -0.2234250009059906
+    ],
+    "max": [
+      0.21489499509334564,
+      0.583620011806488,
+      0.225724995136261
+    ]
+  },
+  "bounds": {
+    "min": [
+      -0.9358190298080444,
+      0,
+      -1.0388824939727783
+    ],
+    "max": [
+      0.9358190298080444,
+      2.700000047683716,
+      1.0388824939727783
+    ]
+  },
+  "normalization": {
+    "upAxis": "Y",
+    "targetHeight": 2.7,
+    "scale": 4.626297839998064,
+    "preScaleTranslation": [
+      -0.01263900101184845,
+      0,
+      -0.0011499971151351929
+    ],
+    "postSimplificationCorrection": {
+      "scale": 1.0002125732652642,
+      "preScaleTranslation": [
+        -0.0000763237476348877,
+        0,
+        -0.0002891421318054199
+      ]
+    },
+    "rotationApplied": [
+      0,
+      0,
+      0
+    ],
+    "orientationNote": "Source orientation preserved; front/shoulder camera targets require rendered inspection."
+  },
+  "simplification": {
+    "targetTriangles": 120000,
+    "maximumRelativeError": 0.0015,
+    "normalWeights": [
+      0.5,
+      0.5,
+      0.5
+    ],
+    "algorithm": "meshoptimizer simplifyWithAttributes",
+    "weldTolerance": 0.000001
+  },
+  "meshes": [
+    {
+      "sourceTriangles": 450738,
+      "weldedVertices": 225292,
+      "triangles": 120000,
+      "vertices": 103954,
+      "relativeError": 0.0008864045375958085,
+      "preservedNormals": false,
+      "preservedUVs": false,
+      "rebuiltNormals": "60-degree crease-aware normals after simplification",
+      "attributes": [
+        "position",
+        "normal",
+        "color"
+      ]
+    }
+  ],
+  "triangles": 120000,
+  "vertices": 103954,
+  "limitations": [
+    "Source was a single untextured mesh. Layer adds a hand-authored illustrative material map, not manufacturer textures.",
+    "Regions use curated surface seeds and visible-view polygon boundaries; triangle resolution limits very small details.",
+    "Curvature-driven shade and highlights illustrate geometry, not a physical paint simulation or calibrated finish.",
+    "Source per-corner normals were rebuilt and unused UVs removed during optimisation.",
+    "Creator and CC BY 4.0 license are taken from the Nexprint listing; this is not an official Games Workshop asset."
+  ],
+  "materialRegions": {
+    "armour": 57530,
+    "trim": 9915,
+    "weapon": 10790,
+    "metal": 6142,
+    "rubber": 15257,
+    "leather": 6346,
+    "parchment": 3972,
+    "wax": 0,
+    "lenses": 124,
+    "base": 5114,
+    "stone": 4810,
+    "unassigned": 0
+  },
+  "paintMap": {
+    "seedsSha256": "aa1a0c3497a3269350d80a4e3ace7d12eec45aad4c344ca62c9adeca6d696a63",
+    "seedCount": 347,
+    "polygonCount": 80,
+    "curvatureChannels": {
+      "r": "convexity",
+      "g": "concavity",
+      "b": "unused"
+    }
+  }
+}

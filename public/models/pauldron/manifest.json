@@ -1,0 +1,103 @@
+{
+  "version": 1,
+  "sourceSha256": "a49fd57c0b1f9a5359f29f6ea73148c8f45c50799f42a7f91286c27a95085278",
+  "sourceBytes": 4271284,
+  "triangles": 85424,
+  "vertices": 256272,
+  "positionValues": 768816,
+  "positionMismatches": 0,
+  "positionsSha256": "c6c06174fe36dab7afab414ee6776bf77dc2bcf519eecce6aef4d690b5c4f9f1",
+  "coordinateUnits": "unspecified",
+  "center": [
+    9.67441725730896,
+    -2.002225875854492,
+    -2.5687122344970703
+  ],
+  "displayBasis": {
+    "right": [
+      0.022718240123766924,
+      0.8350025992921173,
+      -0.549776809933892
+    ],
+    "up": [
+      -0.13959506173647704,
+      0.5471809685637136,
+      0.825291588700906
+    ],
+    "front": [
+      0.989948029092673,
+      0.05799695523977277,
+      0.1289932280332877
+    ]
+  },
+  "regions": [
+    {
+      "id": 0,
+      "name": "Outer plate",
+      "faces": 12004
+    },
+    {
+      "id": 1,
+      "name": "Raised rim",
+      "faces": 9382
+    },
+    {
+      "id": 2,
+      "name": "Lower band",
+      "faces": 14939
+    },
+    {
+      "id": 3,
+      "name": "Rivets",
+      "faces": 2325
+    },
+    {
+      "id": 4,
+      "name": "Skull",
+      "faces": 12222
+    },
+    {
+      "id": 5,
+      "name": "Inner cup",
+      "faces": 20487
+    },
+    {
+      "id": 6,
+      "name": "Rear surfaces",
+      "faces": 14065
+    }
+  ],
+  "correctedNormalFaces": [
+    39869,
+    66120
+  ],
+  "corrections": "Positions and source bytes unchanged. Two non-finite collapsed-face normals replaced in display buffers only. Crease-aware normals are optional display shading.",
+  "boundary": {
+    "kind": "authored-profile-v1",
+    "sourceSha256": "a49fd57c0b1f9a5359f29f6ea73148c8f45c50799f42a7f91286c27a95085278",
+    "centerX": 0.241,
+    "yOrigin": -1.247,
+    "yScale": 6.1,
+    "radiusSquaredCoefficients": [
+      18.935423426902428,
+      -2.2577261991088218,
+      -7.516979968181868,
+      -18.4069685455462,
+      9.177664771425322
+    ],
+    "bottomCoefficients": [
+      -2.0714085479074607,
+      -0.0038695447725033308,
+      0.00011451256376284654
+    ],
+    "topY": 4.84130927873835,
+    "frontDepthMinimum": -2.04
+  },
+  "payload": {
+    "file": "inspection-8b6ca634717388d4.bin.gz",
+    "encoding": "gzip; little-endian float32 positions, per-face facet normals, per-corner smooth normals, uint8 source-face regions",
+    "sha256": "8b6ca634717388d4eb71b73313d282c63c691e18a463f62d1eb0eea2e4df1a09",
+    "byteLength": 7261040,
+    "compressedBytes": 2664838
+  }
+}

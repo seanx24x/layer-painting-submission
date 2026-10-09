@@ -1,0 +1,56 @@
+.light-placement-study { min-width:0; border-radius:14px; background:#eef0f3; overflow:hidden; }
+.light-stage-header { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:16px 20px 0; }
+.light-segmented { display:inline-flex; gap:3px; padding:3px; border:1px solid #dce1e7; border-radius:9px; }
+.light-segmented button { min-height:44px; padding:9px 13px; border:0; background:transparent; border-radius:6px; color:var(--secondary); font:inherit; font-size:13px; line-height:1.4; transition:background-color 160ms ease-out,color 160ms ease-out,box-shadow 160ms ease-out; }
+.light-segmented button[aria-pressed="true"] { background:var(--paper,#f8f9fb); color:var(--ink); box-shadow:0 1px 3px #2023280a; }
+.light-segmented button:hover { color:var(--ink); }
+.light-reset { display:flex; align-items:center; justify-content:center; gap:7px; min-height:44px; min-width:44px; padding:8px 0 8px 10px; border:0; background:transparent; color:var(--secondary); font-size:12px; white-space:nowrap; }
+.light-reset:hover { color:var(--ink); }
+.light-placement-stage { position:relative; height:clamp(360px,33vw,500px); isolation:isolate; }
+.light-canvas,.light-fallback { position:absolute; inset:0; width:100%; height:100%; }
+.light-canvas canvas { display:block; width:100%; height:100%; }
+.light-stage-loading { position:absolute; inset:0; display:grid; place-items:center; font-size:13px; color:var(--secondary); }
+.light-direction-line { position:absolute; inset:0; width:100%; height:100%; pointer-events:none; z-index:-1; }
+.light-direction-line line { stroke:#8d97a7; stroke-width:1; stroke-dasharray:2 5; opacity:.4; }
+.light-source-handle { position:absolute; display:grid; place-items:center; width:48px; height:48px; padding:0; transform:translate(-50%,-50%); border:1px solid #bcb089; border-radius:50%; background:#faf5e5; color:#736334; box-shadow:0 2px 6px #6056330c,0 0 0 5px #fff5d73b; cursor:grab; touch-action:none; user-select:none; }
+.light-source-handle:active,.light-placement-stage[data-dragging] .light-source-handle { cursor:grabbing; background:#fff8df; }
+.light-placement-study :is(button,input,summary):focus-visible { outline:2px solid var(--accent,#264ef4); outline-offset:4px; }
+.light-source-handle:focus-visible { box-shadow:0 0 0 6px #eef0f3; }
+.light-stage-caption { position:absolute; inset:auto 24px 14px; display:flex; justify-content:space-between; gap:12px; font-size:12px; line-height:1.5; color:var(--secondary); pointer-events:none; }
+.light-stage-caption > :last-child { text-align:right; font-variant-numeric:tabular-nums; }
+.light-placement-controls { padding:0 20px; }
+.light-view-options { display:flex; width:100%; background:#e7ebf0; border-color:transparent; }
+.light-view-options > button { flex:1; font-size:13px; }
+.light-paint-legend { list-style:none; margin:0; padding:15px 0 0; display:flex; justify-content:center; gap:22px; font-size:12px; color:var(--secondary); }
+.light-paint-legend li { display:flex; align-items:center; gap:6px; }
+.light-paint-legend i { display:block; width:11px; height:11px; border:1px solid #20232812; border-radius:50%; }
+.light-position-disclosure { margin:12px 0 0; border-top:1px solid #d8dee6; }
+.light-position-disclosure > summary { display:flex; align-items:center; justify-content:space-between; gap:12px; min-height:48px; font-size:13px; color:var(--secondary); cursor:pointer; list-style:none; }
+.light-position-disclosure > summary::-webkit-details-marker { display:none; }
+.light-position-disclosure[open] > summary > svg { transform:rotate(180deg); }
+.light-preset-options { display:flex; flex-wrap:wrap; gap:7px; }
+.light-preset-options button { flex:1 0 auto; min-height:44px; border:1px solid #d3dbe5; border-radius:7px; background:transparent; padding:9px 12px; font-size:13px; transition:background-color 160ms ease-out,border-color 160ms ease-out; }
+.light-preset-options button:hover { background:#f6f7f9; }
+.light-preset-options button[aria-pressed="true"] { background:#f8f9fb; border-color:#8391a3; }
+.light-angle-controls { display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1fr); column-gap:28px; row-gap:6px; padding-top:20px; }
+.light-angle-controls label { display:block; min-width:0; font-size:13px; }
+.light-angle-controls label > span { display:flex; justify-content:space-between; gap:8px; }
+.light-angle-controls output { font-size:12px; color:var(--secondary); font-variant-numeric:tabular-nums; }
+.light-angle-controls input { display:block; width:100%; min-height:44px; margin:0; accent-color:#65758b; }
+.light-study-hint { margin:0; padding:0 20px 20px; color:var(--secondary); font-size:12px; line-height:1.7; }
+.light-fallback-notice { font-size:12px; line-height:1.7; color:var(--secondary); padding:4px 0 12px; }
+.light-fallback-notice button { display:block; min-height:44px; border:0; padding:0; background:transparent; text-decoration:underline; text-underline-offset:3px; font-size:12px; }
+@media(max-width:560px) {
+  .light-stage-header { padding:12px 12px 0; gap:6px; }
+  .light-surface-options button { padding:8px 10px; font-size:12px; }
+  .light-reset { padding:8px 3px; }
+  .light-reset span { display:none; }
+  .light-placement-stage { height:350px; }
+  .light-stage-caption { inset:auto 16px 12px; font-size:12px; }
+  .light-placement-controls { padding:0 12px; }
+  .light-view-options button { font-size:12px; padding:9px 8px; }
+  .light-paint-legend { gap:14px; }
+  .light-angle-controls { grid-template-columns:1fr; padding-top:18px; }
+  .light-study-hint { padding:0 14px 16px; }
+}
+@media(prefers-reduced-motion:reduce) { .light-placement-study * { transition:none!important; } }

@@ -1,0 +1,6 @@
+.surface-painting-scene,.surface-painting-canvas,.surface-painting-fallback {position:absolute;inset:0}
+.surface-painting-canvas canvas,.surface-painting-fallback svg {display:block;width:100%;height:100%}
+.surface-painting-recovery {position:absolute;top:54px;left:22px;right:22px;display:flex;justify-content:center;align-items:center;gap:12px;font-size:12px;color:var(--lesson-muted);flex-wrap:wrap}
+.surface-painting-recovery button {border:0;background:none;color:var(--lesson-ink);text-decoration:underline;text-underline-offset:3px;min-height:44px;padding:4px}
+
+.surface-painting-scene:not([data-renderer="ready"]) .surface-painting-canvas {visibility:hidden}

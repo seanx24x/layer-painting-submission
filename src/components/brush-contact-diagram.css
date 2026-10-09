@@ -1,0 +1,53 @@
+.brush-contact-diagram {
+  border-top: 1px solid var(--lesson-line, #dde1e6);
+  color: var(--lesson-muted, #606a75);
+  font-family: inherit;
+}
+.brush-contact-diagram > summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 44px;
+  padding: 12px 0;
+  list-style: none;
+  cursor: pointer;
+  font-size: 12px;
+  line-height: 1.5;
+}
+.brush-contact-diagram > summary::-webkit-details-marker { display: none; }
+.brush-contact-diagram > summary:focus-visible { outline: 2px solid var(--action, #355fdb); outline-offset: 4px; }
+.brush-contact-diagram > summary > span {
+  flex: 0 0 6px;
+  width: 6px;
+  height: 6px;
+  margin-right: 3px;
+  border-right: 1px solid currentColor;
+  border-bottom: 1px solid currentColor;
+  transform: rotate(45deg) translateY(-2px);
+}
+.brush-contact-diagram[open] > summary > span { transform: rotate(225deg) translate(-1px, -1px); }
+.brush-contact-diagram figure { margin: 0; padding: 0 0 19px; }
+.brush-contact-diagram svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 214px;
+  background: #fafaf9;
+  border-radius: 6px;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.brush-contact-diagram .brush-contact-surface { stroke: #9ba4ad; stroke-width: 1.15; }
+.brush-contact-diagram .brush-contact-surface-detail { stroke: #dce0e3; stroke-width: 1; }
+.brush-contact-diagram .brush-contact-outline { fill: #fff; stroke: #7e8994; stroke-width: 1.15; }
+.brush-contact-diagram .brush-contact-bristles { stroke: #bac1c8; stroke-width: .8; }
+.brush-contact-diagram .brush-contact-point { fill: #5b6875; }
+.brush-contact-diagram .brush-contact-direction { stroke: #7e8994; stroke-width: 1.15; }
+.brush-contact-diagram figcaption {
+  margin-top: 10px;
+  color: var(--lesson-muted, #606a75);
+  font-size: 12px;
+  line-height: 1.7;
+}
